@@ -10,50 +10,50 @@
   "websiteUrl": "maciejgalinski.mg-digitalsolutions.com",
   "createdAt": "2021-03-11T09:53:47Z",
   "repoViews": 41,
-  "linesOfCodeChanged": 3891161,
-  "linesAdded": 3683971,
-  "linesDeleted": 207190,
-  "commitCount": 710,
-  "totalCommits": 1038,
+  "linesOfCodeChanged": 3930783,
+  "linesAdded": 3709191,
+  "linesDeleted": 221592,
+  "commitCount": 712,
+  "totalCommits": 1040,
   "totalPullRequests": 290,
   "totalPullRequestReviews": 3,
-  "codeByteTotal": 4821210,
+  "codeByteTotal": 5156792,
   "topLanguages": [
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 4448531,
-      "percentage": 92.27
+      "value": 4783908,
+      "percentage": 92.77
     },
     {
       "languageName": "CSS",
       "color": "#663399",
-      "value": 139267,
-      "percentage": 2.89
+      "value": 139373,
+      "percentage": 2.7
     },
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
-      "value": 120778,
-      "percentage": 2.51
+      "value": 120877,
+      "percentage": 2.34
     },
     {
       "languageName": "C#",
       "color": "#178600",
       "value": 79378,
-      "percentage": 1.65
+      "percentage": 1.54
     },
     {
       "languageName": "HTML",
       "color": "#e34c26",
       "value": 24879,
-      "percentage": 0.52
+      "percentage": 0.48
     },
     {
       "languageName": "SCSS",
       "color": "#c6538c",
       "value": 8230,
-      "percentage": 0.17
+      "percentage": 0.16
     },
     {
       "languageName": "MDX",
@@ -70,14 +70,14 @@
   "repositoriesContributedTo": 2,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 1554,
+  "totalContributions": 1557,
   "contributionStats": {
     "longestStreak": 14,
     "currentStreak": 1,
     "mostActiveDay": "Monday",
-    "averagePerDay": 0.86,
-    "averagePerWeek": 6.04,
-    "averagePerMonth": 25.9,
+    "averagePerDay": 0.87,
+    "averagePerWeek": 6.06,
+    "averagePerMonth": 25.95,
     "monthlyBreakdown": [
       {
         "month": "2021-03",
@@ -317,32 +317,32 @@
       },
       {
         "month": "2026-02",
-        "contributions": 11
+        "contributions": 14
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 43,
-    "publicRepos": 11,
+    "totalRepos": 44,
+    "publicRepos": 12,
     "privateRepos": 32,
     "archivedRepos": 2,
     "forkedRepos": 0,
-    "originalRepos": 43,
-    "activeRepos": 11,
+    "originalRepos": 44,
+    "activeRepos": 12,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 4,
+    "reposCreatedThisYear": 5,
     "averageStarsPerRepo": 0.02
   },
   "computedStats": {
-    "totalRepos": 43,
-    "publicRepos": 11,
+    "totalRepos": 44,
+    "publicRepos": 12,
     "privateRepos": 32,
     "archivedRepos": 2,
     "forkedRepos": 0,
-    "originalRepos": 43,
-    "activeRepos": 11,
+    "originalRepos": 44,
+    "activeRepos": 12,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 4,
+    "reposCreatedThisYear": 5,
     "averageStarsPerRepo": 0.02,
     "languageCount": 7,
     "primaryLanguage": "TypeScript",
@@ -351,48 +351,48 @@
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 855682,
-        "percentage": 95.97
+        "value": 1191059,
+        "percentage": 97.06
       },
       {
         "languageName": "CSS",
         "color": "#663399",
-        "value": 31502,
-        "percentage": 3.53
+        "value": 31608,
+        "percentage": 2.58
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 4269,
-        "percentage": 0.48
+        "value": 4368,
+        "percentage": 0.36
       },
       {
         "languageName": "MDX",
         "color": "#fcb32c",
         "value": 147,
-        "percentage": 0.02
+        "percentage": 0.01
       }
     ],
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 34,
+    "contributionsThisYear": 37,
     "contributionsLastYear": 290,
-    "yearOverYearGrowth": -88.28,
+    "yearOverYearGrowth": -87.24,
     "mostProductiveMonth": {
       "month": "2023-10",
       "contributions": 171
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 1084,
+    "totalCommitContributions": 1086,
     "restrictedContributionsCount": 91,
     "totalIssueContributions": 41,
-    "totalRepositoryContributions": 43,
+    "totalRepositoryContributions": 44,
     "totalPullRequestContributions": 290,
     "totalPullRequestReviewContributions": 3,
     "contributionCalendar": {
-      "totalContributions": 1554,
+      "totalContributions": 1557,
       "weeks": [
         {
           "contributionDays": [
@@ -8637,7 +8637,7 @@
         {
           "contributionDays": [
             {
-              "contributionCount": 5,
+              "contributionCount": 8,
               "date": "2026-02-08"
             }
           ]
@@ -8660,16 +8660,29 @@
       "createdAt": "2023-06-21T10:11:19Z"
     },
     {
-      "name": "stats",
+      "name": "stats-remotion",
       "description": null,
       "stars": 0,
       "forks": 0,
       "isArchived": false,
       "isFork": false,
       "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "topics": [],
+      "updatedAt": "2026-02-08T12:41:29Z",
+      "createdAt": "2026-02-08T12:41:04Z"
+    },
+    {
+      "name": "stats",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
       "primaryLanguage": null,
       "topics": [],
-      "updatedAt": "2026-02-08T02:01:27Z",
+      "updatedAt": "2026-02-08T12:05:07Z",
       "createdAt": "2026-02-08T02:01:20Z"
     },
     {
@@ -8762,22 +8775,9 @@
       "topics": [],
       "updatedAt": "2026-01-31T23:20:02Z",
       "createdAt": "2025-11-17T08:01:24Z"
-    },
-    {
-      "name": "move-med-studio",
-      "description": null,
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": true,
-      "primaryLanguage": "TypeScript",
-      "topics": [],
-      "updatedAt": "2026-01-18T22:31:52Z",
-      "createdAt": "2025-11-13T11:52:46Z"
     }
   ],
   "closedIssues": 41,
   "openIssues": 0,
-  "fetchedAt": 1770516241155
+  "fetchedAt": 1770554634674
 }
