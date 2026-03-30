@@ -10,50 +10,50 @@
   "websiteUrl": "maciejgalinski.mg-digitalsolutions.com",
   "createdAt": "2021-03-11T09:53:47Z",
   "repoViews": 14,
-  "linesOfCodeChanged": 3991294,
-  "linesAdded": 3767602,
-  "linesDeleted": 223692,
-  "commitCount": 801,
-  "totalCommits": 1148,
+  "linesOfCodeChanged": 907605,
+  "linesAdded": 690951,
+  "linesDeleted": 216654,
+  "commitCount": 736,
+  "totalCommits": 1152,
   "totalPullRequests": 290,
   "totalPullRequestReviews": 3,
-  "codeByteTotal": 5608422,
+  "codeByteTotal": 5853092,
   "topLanguages": [
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 5232109,
-      "percentage": 93.29
+      "value": 5470784,
+      "percentage": 93.47
     },
     {
       "languageName": "CSS",
       "color": "#663399",
-      "value": 140720,
-      "percentage": 2.51
+      "value": 145751,
+      "percentage": 2.49
     },
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
-      "value": 122959,
-      "percentage": 2.19
+      "value": 123923,
+      "percentage": 2.12
     },
     {
       "languageName": "C#",
       "color": "#178600",
       "value": 79378,
-      "percentage": 1.42
+      "percentage": 1.36
     },
     {
       "languageName": "HTML",
       "color": "#e34c26",
       "value": 24879,
-      "percentage": 0.44
+      "percentage": 0.43
     },
     {
       "languageName": "SCSS",
       "color": "#c6538c",
       "value": 8230,
-      "percentage": 0.15
+      "percentage": 0.14
     },
     {
       "languageName": "MDX",
@@ -70,14 +70,14 @@
   "repositoriesContributedTo": 2,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 1668,
+  "totalContributions": 1674,
   "contributionStats": {
-    "longestStreak": 50,
-    "currentStreak": 50,
+    "longestStreak": 51,
+    "currentStreak": 51,
     "mostActiveDay": "Monday",
     "averagePerDay": 0.9,
-    "averagePerWeek": 6.31,
-    "averagePerMonth": 27.06,
+    "averagePerWeek": 6.33,
+    "averagePerMonth": 27.15,
     "monthlyBreakdown": [
       {
         "month": "2021-03",
@@ -321,32 +321,32 @@
       },
       {
         "month": "2026-03",
-        "contributions": 70
+        "contributions": 76
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 47,
+    "totalRepos": 49,
     "publicRepos": 13,
-    "privateRepos": 34,
+    "privateRepos": 36,
     "archivedRepos": 2,
     "forkedRepos": 0,
-    "originalRepos": 47,
-    "activeRepos": 16,
+    "originalRepos": 49,
+    "activeRepos": 18,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 8,
+    "reposCreatedThisYear": 10,
     "averageStarsPerRepo": 0.02
   },
   "computedStats": {
-    "totalRepos": 47,
+    "totalRepos": 49,
     "publicRepos": 13,
-    "privateRepos": 34,
+    "privateRepos": 36,
     "archivedRepos": 2,
     "forkedRepos": 0,
-    "originalRepos": 47,
-    "activeRepos": 16,
+    "originalRepos": 49,
+    "activeRepos": 18,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 8,
+    "reposCreatedThisYear": 10,
     "averageStarsPerRepo": 0.02,
     "languageCount": 7,
     "primaryLanguage": "TypeScript",
@@ -355,20 +355,20 @@
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 1764186,
-        "percentage": 97.48
+        "value": 2002861,
+        "percentage": 97.49
       },
       {
         "languageName": "CSS",
         "color": "#663399",
-        "value": 36144,
+        "value": 41175,
         "percentage": 2
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 9340,
-        "percentage": 0.52
+        "value": 10304,
+        "percentage": 0.5
       },
       {
         "languageName": "MDX",
@@ -380,23 +380,23 @@
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 148,
+    "contributionsThisYear": 154,
     "contributionsLastYear": 290,
-    "yearOverYearGrowth": -48.97,
+    "yearOverYearGrowth": -46.9,
     "mostProductiveMonth": {
       "month": "2023-10",
       "contributions": 171
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 1194,
+    "totalCommitContributions": 1198,
     "restrictedContributionsCount": 91,
     "totalIssueContributions": 41,
-    "totalRepositoryContributions": 47,
+    "totalRepositoryContributions": 49,
     "totalPullRequestContributions": 290,
     "totalPullRequestReviewContributions": 3,
     "contributionCalendar": {
-      "totalContributions": 1668,
+      "totalContributions": 1674,
       "weeks": [
         {
           "contributionDays": [
@@ -8865,8 +8865,12 @@
         {
           "contributionDays": [
             {
-              "contributionCount": 1,
+              "contributionCount": 2,
               "date": "2026-03-29"
+            },
+            {
+              "contributionCount": 5,
+              "date": "2026-03-30"
             }
           ]
         }
@@ -8886,6 +8890,32 @@
       "topics": [],
       "updatedAt": "2026-02-08T13:00:33Z",
       "createdAt": "2023-06-21T10:11:19Z"
+    },
+    {
+      "name": "zaparking",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "topics": [],
+      "updatedAt": "2026-03-30T10:53:21Z",
+      "createdAt": "2026-03-30T10:51:14Z"
+    },
+    {
+      "name": "sneakily",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "topics": [],
+      "updatedAt": "2026-03-30T10:40:46Z",
+      "createdAt": "2026-03-30T10:37:52Z"
     },
     {
       "name": "eg-system-landing-page",
@@ -8949,7 +8979,7 @@
       "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "topics": [],
-      "updatedAt": "2026-03-29T02:56:23Z",
+      "updatedAt": "2026-03-30T02:59:05Z",
       "createdAt": "2026-02-08T12:41:04Z"
     },
     {
@@ -8962,7 +8992,7 @@
       "isPrivate": false,
       "primaryLanguage": null,
       "topics": [],
-      "updatedAt": "2026-03-28T12:55:01Z",
+      "updatedAt": "2026-03-29T12:56:30Z",
       "createdAt": "2026-02-08T02:01:20Z"
     },
     {
@@ -8977,35 +9007,9 @@
       "topics": [],
       "updatedAt": "2026-01-31T18:42:48Z",
       "createdAt": "2026-01-26T00:13:16Z"
-    },
-    {
-      "name": "vos-aesthetics",
-      "description": null,
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": true,
-      "primaryLanguage": "TypeScript",
-      "topics": [],
-      "updatedAt": "2026-01-05T02:19:21Z",
-      "createdAt": "2026-01-05T02:09:47Z"
-    },
-    {
-      "name": "bm-clinic",
-      "description": null,
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": true,
-      "primaryLanguage": "TypeScript",
-      "topics": [],
-      "updatedAt": "2025-12-12T14:06:45Z",
-      "createdAt": "2025-12-12T01:33:55Z"
     }
   ],
   "closedIssues": 41,
   "openIssues": 0,
-  "fetchedAt": 1774788674309
+  "fetchedAt": 1774876455181
 }
