@@ -9,51 +9,51 @@
   "twitterUsername": null,
   "websiteUrl": "maciejgalinski.mg-digitalsolutions.com",
   "createdAt": "2021-03-11T09:53:47Z",
-  "repoViews": 19,
-  "linesOfCodeChanged": 1006164,
-  "linesAdded": 794148,
-  "linesDeleted": 212016,
-  "commitCount": 580,
-  "totalCommits": 1170,
+  "repoViews": 37,
+  "linesOfCodeChanged": 3946683,
+  "linesAdded": 3728628,
+  "linesDeleted": 218055,
+  "commitCount": 674,
+  "totalCommits": 1178,
   "totalPullRequests": 291,
   "totalPullRequestReviews": 3,
-  "codeByteTotal": 5984979,
+  "codeByteTotal": 6165847,
   "topLanguages": [
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 5600330,
-      "percentage": 93.57
+      "value": 5775555,
+      "percentage": 93.67
     },
     {
       "languageName": "CSS",
       "color": "#663399",
-      "value": 147128,
-      "percentage": 2.46
+      "value": 152289,
+      "percentage": 2.47
     },
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
-      "value": 124887,
-      "percentage": 2.09
+      "value": 125369,
+      "percentage": 2.03
     },
     {
       "languageName": "C#",
       "color": "#178600",
       "value": 79378,
-      "percentage": 1.33
+      "percentage": 1.29
     },
     {
       "languageName": "HTML",
       "color": "#e34c26",
       "value": 24879,
-      "percentage": 0.42
+      "percentage": 0.4
     },
     {
       "languageName": "SCSS",
       "color": "#c6538c",
       "value": 8230,
-      "percentage": 0.14
+      "percentage": 0.13
     },
     {
       "languageName": "MDX",
@@ -70,14 +70,14 @@
   "repositoriesContributedTo": 2,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 1695,
+  "totalContributions": 1704,
   "contributionStats": {
-    "longestStreak": 55,
-    "currentStreak": 55,
+    "longestStreak": 56,
+    "currentStreak": 56,
     "mostActiveDay": "Monday",
-    "averagePerDay": 0.91,
-    "averagePerWeek": 6.4,
-    "averagePerMonth": 27.43,
+    "averagePerDay": 0.92,
+    "averagePerWeek": 6.43,
+    "averagePerMonth": 27.56,
     "monthlyBreakdown": [
       {
         "month": "2021-03",
@@ -325,32 +325,32 @@
       },
       {
         "month": "2026-04",
-        "contributions": 13
+        "contributions": 22
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 51,
+    "totalRepos": 52,
     "publicRepos": 13,
-    "privateRepos": 38,
+    "privateRepos": 39,
     "archivedRepos": 2,
     "forkedRepos": 0,
-    "originalRepos": 51,
-    "activeRepos": 20,
+    "originalRepos": 52,
+    "activeRepos": 21,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 12,
+    "reposCreatedThisYear": 13,
     "averageStarsPerRepo": 0.02
   },
   "computedStats": {
-    "totalRepos": 51,
+    "totalRepos": 52,
     "publicRepos": 13,
-    "privateRepos": 38,
+    "privateRepos": 39,
     "archivedRepos": 2,
     "forkedRepos": 0,
-    "originalRepos": 51,
-    "activeRepos": 20,
+    "originalRepos": 52,
+    "activeRepos": 21,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 12,
+    "reposCreatedThisYear": 13,
     "averageStarsPerRepo": 0.02,
     "languageCount": 7,
     "primaryLanguage": "TypeScript",
@@ -359,20 +359,20 @@
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 2132407,
-        "percentage": 97.53
+        "value": 2307632,
+        "percentage": 97.48
       },
       {
         "languageName": "CSS",
         "color": "#663399",
-        "value": 42552,
-        "percentage": 1.95
+        "value": 47713,
+        "percentage": 2.02
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 11268,
-        "percentage": 0.52
+        "value": 11750,
+        "percentage": 0.5
       },
       {
         "languageName": "MDX",
@@ -384,23 +384,23 @@
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 175,
+    "contributionsThisYear": 184,
     "contributionsLastYear": 290,
-    "yearOverYearGrowth": -39.66,
+    "yearOverYearGrowth": -36.55,
     "mostProductiveMonth": {
       "month": "2023-10",
       "contributions": 171
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 1216,
+    "totalCommitContributions": 1224,
     "restrictedContributionsCount": 91,
     "totalIssueContributions": 41,
-    "totalRepositoryContributions": 51,
+    "totalRepositoryContributions": 52,
     "totalPullRequestContributions": 291,
     "totalPullRequestReviewContributions": 3,
     "contributionCalendar": {
-      "totalContributions": 1695,
+      "totalContributions": 1704,
       "weeks": [
         {
           "contributionDays": [
@@ -8889,8 +8889,12 @@
               "date": "2026-04-02"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 7,
               "date": "2026-04-03"
+            },
+            {
+              "contributionCount": 3,
+              "date": "2026-04-04"
             }
           ]
         }
@@ -8910,6 +8914,19 @@
       "topics": [],
       "updatedAt": "2026-02-08T13:00:33Z",
       "createdAt": "2023-06-21T10:11:19Z"
+    },
+    {
+      "name": "marina-boat-rentals",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "topics": [],
+      "updatedAt": "2026-04-03T15:08:29Z",
+      "createdAt": "2026-04-03T13:14:47Z"
     },
     {
       "name": "targo-transport",
@@ -9014,22 +9031,9 @@
       "topics": [],
       "updatedAt": "2026-03-10T08:52:36Z",
       "createdAt": "2026-03-09T23:38:40Z"
-    },
-    {
-      "name": "stats-remotion",
-      "description": null,
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": false,
-      "primaryLanguage": "TypeScript",
-      "topics": [],
-      "updatedAt": "2026-04-03T02:50:56Z",
-      "createdAt": "2026-02-08T12:41:04Z"
     }
   ],
   "closedIssues": 41,
   "openIssues": 0,
-  "fetchedAt": 1775221124355
+  "fetchedAt": 1775307035614
 }
