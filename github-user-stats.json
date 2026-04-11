@@ -9,45 +9,45 @@
   "twitterUsername": null,
   "websiteUrl": "maciejgalinski.mg-digitalsolutions.com",
   "createdAt": "2021-03-11T09:53:47Z",
-  "repoViews": 50,
-  "linesOfCodeChanged": 991471,
-  "linesAdded": 777941,
-  "linesDeleted": 213530,
-  "commitCount": 700,
-  "totalCommits": 1202,
+  "repoViews": 46,
+  "linesOfCodeChanged": 4113133,
+  "linesAdded": 3881811,
+  "linesDeleted": 231322,
+  "commitCount": 825,
+  "totalCommits": 1206,
   "totalPullRequests": 291,
   "totalPullRequestReviews": 3,
-  "codeByteTotal": 6370177,
+  "codeByteTotal": 6462171,
   "topLanguages": [
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 5975672,
-      "percentage": 93.81
+      "value": 6067109,
+      "percentage": 93.89
     },
     {
       "languageName": "CSS",
       "color": "#663399",
-      "value": 154574,
-      "percentage": 2.43
+      "value": 155053,
+      "percentage": 2.4
     },
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
-      "value": 127297,
-      "percentage": 2
+      "value": 127375,
+      "percentage": 1.97
     },
     {
       "languageName": "C#",
       "color": "#178600",
       "value": 79378,
-      "percentage": 1.25
+      "percentage": 1.23
     },
     {
       "languageName": "HTML",
       "color": "#e34c26",
       "value": 24879,
-      "percentage": 0.39
+      "percentage": 0.38
     },
     {
       "languageName": "SCSS",
@@ -70,14 +70,14 @@
   "repositoriesContributedTo": 2,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 1733,
+  "totalContributions": 1737,
   "contributionStats": {
-    "longestStreak": 62,
-    "currentStreak": 62,
+    "longestStreak": 63,
+    "currentStreak": 63,
     "mostActiveDay": "Monday",
     "averagePerDay": 0.93,
-    "averagePerWeek": 6.52,
-    "averagePerMonth": 27.94,
+    "averagePerWeek": 6.53,
+    "averagePerMonth": 27.99,
     "monthlyBreakdown": [
       {
         "month": "2021-03",
@@ -325,7 +325,7 @@
       },
       {
         "month": "2026-04",
-        "contributions": 51
+        "contributions": 55
       }
     ]
   },
@@ -359,20 +359,20 @@
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 2507749,
-        "percentage": 97.52
+        "value": 2599186,
+        "percentage": 97.58
       },
       {
         "languageName": "CSS",
         "color": "#663399",
-        "value": 49998,
-        "percentage": 1.94
+        "value": 50477,
+        "percentage": 1.9
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 13678,
-        "percentage": 0.53
+        "value": 13756,
+        "percentage": 0.52
       },
       {
         "languageName": "MDX",
@@ -384,23 +384,23 @@
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 213,
+    "contributionsThisYear": 217,
     "contributionsLastYear": 290,
-    "yearOverYearGrowth": -26.55,
+    "yearOverYearGrowth": -25.17,
     "mostProductiveMonth": {
       "month": "2023-10",
       "contributions": 171
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 1248,
+    "totalCommitContributions": 1252,
     "restrictedContributionsCount": 91,
     "totalIssueContributions": 41,
     "totalRepositoryContributions": 56,
     "totalPullRequestContributions": 291,
     "totalPullRequestReviewContributions": 3,
     "contributionCalendar": {
-      "totalContributions": 1733,
+      "totalContributions": 1737,
       "weeks": [
         {
           "contributionDays": [
@@ -8921,8 +8921,12 @@
               "date": "2026-04-09"
             },
             {
-              "contributionCount": 8,
+              "contributionCount": 11,
               "date": "2026-04-10"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-04-11"
             }
           ]
         }
@@ -8992,7 +8996,7 @@
       "isPrivate": true,
       "primaryLanguage": "TypeScript",
       "topics": [],
-      "updatedAt": "2026-04-07T11:08:43Z",
+      "updatedAt": "2026-04-10T16:03:42Z",
       "createdAt": "2026-04-07T11:03:21Z"
     },
     {
@@ -9063,5 +9067,5 @@
   ],
   "closedIssues": 41,
   "openIssues": 0,
-  "fetchedAt": 1775826259162
+  "fetchedAt": 1775911969636
 }
