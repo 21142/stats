@@ -9,57 +9,39 @@
   "twitterUsername": null,
   "websiteUrl": "maciejgalinski.mg-digitalsolutions.com",
   "createdAt": "2021-03-11T09:53:47Z",
-  "repoViews": 123,
+  "repoViews": 0,
   "linesOfCodeChanged": 0,
   "linesAdded": 0,
   "linesDeleted": 0,
   "commitCount": 0,
-  "totalCommits": 1297,
-  "totalPullRequests": 286,
+  "totalCommits": 853,
+  "totalPullRequests": 203,
   "totalPullRequestReviews": 3,
-  "codeByteTotal": 6840328,
+  "codeByteTotal": 1517550,
   "topLanguages": [
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 6313654,
-      "percentage": 92.3
-    },
-    {
-      "languageName": "CSS",
-      "color": "#663399",
-      "value": 162596,
-      "percentage": 2.38
-    },
-    {
-      "languageName": "HTML",
-      "color": "#e34c26",
-      "value": 147541,
-      "percentage": 2.16
-    },
-    {
-      "languageName": "JavaScript",
-      "color": "#f1e05a",
-      "value": 128782,
-      "percentage": 1.88
+      "value": 1393062,
+      "percentage": 91.8
     },
     {
       "languageName": "C#",
       "color": "#178600",
-      "value": 79378,
-      "percentage": 1.16
+      "value": 55930,
+      "percentage": 3.69
     },
     {
-      "languageName": "SCSS",
-      "color": "#c6538c",
-      "value": 8230,
-      "percentage": 0.12
+      "languageName": "JavaScript",
+      "color": "#f1e05a",
+      "value": 51769,
+      "percentage": 3.41
     },
     {
-      "languageName": "MDX",
-      "color": "#fcb32c",
-      "value": 147,
-      "percentage": 0
+      "languageName": "CSS",
+      "color": "#663399",
+      "value": 16789,
+      "percentage": 1.11
     }
   ],
   "forkCount": 0,
@@ -67,17 +49,17 @@
   "starsGiven": 19,
   "followers": 3,
   "following": 4,
-  "repositoriesContributedTo": 1,
+  "repositoriesContributedTo": 0,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 1899,
+  "totalContributions": 1927,
   "contributionStats": {
-    "longestStreak": 95,
-    "currentStreak": 95,
+    "longestStreak": 99,
+    "currentStreak": 99,
     "mostActiveDay": "Monday",
-    "averagePerDay": 1,
-    "averagePerWeek": 7.02,
-    "averagePerMonth": 30.08,
+    "averagePerDay": 1.02,
+    "averagePerWeek": 7.11,
+    "averagePerMonth": 30.46,
     "monthlyBreakdown": [
       {
         "month": "2021-03",
@@ -289,11 +271,11 @@
       },
       {
         "month": "2025-07",
-        "contributions": 12
+        "contributions": 11
       },
       {
         "month": "2025-08",
-        "contributions": 34
+        "contributions": 30
       },
       {
         "month": "2025-09",
@@ -321,96 +303,84 @@
       },
       {
         "month": "2026-03",
-        "contributions": 86
+        "contributions": 84
       },
       {
         "month": "2026-04",
-        "contributions": 150
+        "contributions": 149
       },
       {
         "month": "2026-05",
-        "contributions": 42
+        "contributions": 78
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 62,
+    "totalRepos": 13,
     "publicRepos": 13,
-    "privateRepos": 49,
-    "archivedRepos": 2,
+    "privateRepos": 0,
+    "archivedRepos": 1,
     "forkedRepos": 0,
-    "originalRepos": 62,
-    "activeRepos": 50,
+    "originalRepos": 13,
+    "activeRepos": 10,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 25,
-    "averageStarsPerRepo": 0.02
+    "reposCreatedThisYear": 2,
+    "averageStarsPerRepo": 0.08
   },
   "computedStats": {
-    "totalRepos": 62,
+    "totalRepos": 13,
     "publicRepos": 13,
-    "privateRepos": 49,
-    "archivedRepos": 2,
+    "privateRepos": 0,
+    "archivedRepos": 1,
     "forkedRepos": 0,
-    "originalRepos": 62,
-    "activeRepos": 50,
+    "originalRepos": 13,
+    "activeRepos": 10,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 25,
-    "averageStarsPerRepo": 0.02,
-    "languageCount": 7,
+    "reposCreatedThisYear": 2,
+    "averageStarsPerRepo": 0.08,
+    "languageCount": 4,
     "primaryLanguage": "TypeScript",
     "primaryLanguageThisYear": "TypeScript",
     "topLanguagesThisYear": [
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 4475045,
-        "percentage": 94.01
-      },
-      {
-        "languageName": "HTML",
-        "color": "#e34c26",
-        "value": 122662,
-        "percentage": 2.58
-      },
-      {
-        "languageName": "CSS",
-        "color": "#663399",
-        "value": 118210,
-        "percentage": 2.48
+        "value": 640226,
+        "percentage": 95.22
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 44213,
-        "percentage": 0.93
+        "value": 19764,
+        "percentage": 2.94
       },
       {
-        "languageName": "MDX",
-        "color": "#fcb32c",
-        "value": 147,
-        "percentage": 0
+        "languageName": "CSS",
+        "color": "#663399",
+        "value": 12404,
+        "percentage": 1.84
       }
     ],
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 364,
-    "contributionsLastYear": 308,
-    "yearOverYearGrowth": 18.18,
+    "contributionsThisYear": 397,
+    "contributionsLastYear": 303,
+    "yearOverYearGrowth": 31.02,
     "mostProductiveMonth": {
       "month": "2023-10",
       "contributions": 171
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 1413,
-    "restrictedContributionsCount": 91,
+    "totalCommitContributions": 909,
+    "restrictedContributionsCount": 757,
     "totalIssueContributions": 41,
-    "totalRepositoryContributions": 62,
-    "totalPullRequestContributions": 286,
+    "totalRepositoryContributions": 13,
+    "totalPullRequestContributions": 203,
     "totalPullRequestReviewContributions": 3,
     "contributionCalendar": {
-      "totalContributions": 1899,
+      "totalContributions": 1927,
       "weeks": [
         {
           "contributionDays": [
@@ -7639,7 +7609,7 @@
               "date": "2025-07-02"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 0,
               "date": "2025-07-03"
             },
             {
@@ -7795,11 +7765,11 @@
               "date": "2025-08-05"
             },
             {
-              "contributionCount": 2,
+              "contributionCount": 0,
               "date": "2025-08-06"
             },
             {
-              "contributionCount": 8,
+              "contributionCount": 6,
               "date": "2025-08-07"
             },
             {
@@ -8887,7 +8857,7 @@
               "date": "2026-03-30"
             },
             {
-              "contributionCount": 6,
+              "contributionCount": 4,
               "date": "2026-03-31"
             },
             {
@@ -8927,7 +8897,7 @@
               "date": "2026-04-08"
             },
             {
-              "contributionCount": 7,
+              "contributionCount": 6,
               "date": "2026-04-09"
             },
             {
@@ -9083,8 +9053,28 @@
               "date": "2026-05-12"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 6,
               "date": "2026-05-13"
+            },
+            {
+              "contributionCount": 9,
+              "date": "2026-05-14"
+            },
+            {
+              "contributionCount": 10,
+              "date": "2026-05-15"
+            },
+            {
+              "contributionCount": 8,
+              "date": "2026-05-16"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 4,
+              "date": "2026-05-17"
             }
           ]
         }
@@ -9106,124 +9096,124 @@
       "createdAt": "2023-06-21T10:11:19Z"
     },
     {
-      "name": "devana",
+      "name": "stats-remotion",
       "description": null,
       "stars": 0,
       "forks": 0,
       "isArchived": false,
       "isFork": false,
-      "isPrivate": true,
-      "primaryLanguage": "HTML",
-      "topics": [],
-      "updatedAt": "2026-05-07T22:03:02Z",
-      "createdAt": "2026-05-05T15:08:40Z"
-    },
-    {
-      "name": "eg-system-transformator",
-      "description": null,
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": true,
+      "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "topics": [],
-      "updatedAt": "2026-04-24T00:59:17Z",
-      "createdAt": "2026-04-24T00:56:05Z"
+      "updatedAt": "2026-05-17T03:57:52Z",
+      "createdAt": "2026-02-08T12:41:04Z"
     },
     {
-      "name": "useme-discord-bot",
+      "name": "stats",
       "description": null,
       "stars": 0,
       "forks": 0,
       "isArchived": false,
       "isFork": false,
-      "isPrivate": true,
-      "primaryLanguage": "TypeScript",
+      "isPrivate": false,
+      "primaryLanguage": null,
       "topics": [],
-      "updatedAt": "2026-04-23T13:01:15Z",
-      "createdAt": "2026-04-23T13:01:09Z"
+      "updatedAt": "2026-05-17T22:37:30Z",
+      "createdAt": "2026-02-08T02:01:20Z"
     },
     {
-      "name": "vertex",
-      "description": null,
+      "name": "merxio",
+      "description": "A slick and minimalistic marketplace example",
       "stars": 0,
       "forks": 0,
       "isArchived": false,
       "isFork": false,
-      "isPrivate": true,
+      "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "topics": [],
-      "updatedAt": "2026-04-22T12:06:57Z",
-      "createdAt": "2026-04-22T11:56:26Z"
+      "updatedAt": "2026-05-12T17:02:28Z",
+      "createdAt": "2024-10-18T05:22:09Z"
     },
     {
-      "name": "tecno",
-      "description": null,
+      "name": "token-based-access",
+      "description": "ERC20 token-based access boilerplate",
       "stars": 0,
       "forks": 0,
       "isArchived": false,
       "isFork": false,
-      "isPrivate": true,
+      "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "topics": [],
-      "updatedAt": "2026-05-11T17:22:26Z",
-      "createdAt": "2026-04-17T08:31:12Z"
+      "updatedAt": "2026-05-11T19:05:39Z",
+      "createdAt": "2024-10-11T21:57:42Z"
     },
     {
-      "name": "elhydea",
-      "description": null,
+      "name": "swapdapp",
+      "description": "Simple DEX developed with typescript, next, wagmi, viem, visx, 0x swap API and coingecko API",
       "stars": 0,
       "forks": 0,
       "isArchived": false,
       "isFork": false,
-      "isPrivate": true,
+      "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "topics": [],
-      "updatedAt": "2026-04-17T08:14:04Z",
-      "createdAt": "2026-04-17T08:11:55Z"
+      "updatedAt": "2026-05-11T17:24:56Z",
+      "createdAt": "2024-10-01T02:07:46Z"
     },
     {
-      "name": "studio-pitch-deck",
-      "description": null,
+      "name": "pay-with-erc20",
+      "description": "Implementation of ERC20 payments with Wagmi and Viem",
       "stars": 0,
       "forks": 0,
       "isArchived": false,
       "isFork": false,
-      "isPrivate": true,
+      "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "topics": [],
-      "updatedAt": "2026-04-16T23:31:17Z",
-      "createdAt": "2026-04-16T23:28:14Z"
+      "updatedAt": "2026-05-12T16:59:39Z",
+      "createdAt": "2024-09-28T12:40:42Z"
     },
     {
-      "name": "stop-szarej-strefie",
-      "description": null,
+      "name": "web3authenticator",
+      "description": "Authentication with web 3 wallets using Sign-In with Ethereum & Wagmi",
       "stars": 0,
       "forks": 0,
       "isArchived": false,
       "isFork": false,
-      "isPrivate": true,
+      "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "topics": [],
-      "updatedAt": "2026-05-11T17:15:42Z",
-      "createdAt": "2026-04-15T21:45:45Z"
+      "updatedAt": "2026-05-11T19:03:00Z",
+      "createdAt": "2024-09-26T01:38:00Z"
     },
     {
-      "name": "automation-machines",
-      "description": null,
+      "name": "twitopia",
+      "description": "twitter like app, but with an X-tra twist",
       "stars": 0,
       "forks": 0,
       "isArchived": false,
       "isFork": false,
-      "isPrivate": true,
+      "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "topics": [],
-      "updatedAt": "2026-05-12T18:42:55Z",
-      "createdAt": "2026-04-10T03:24:40Z"
+      "updatedAt": "2026-05-11T19:04:02Z",
+      "createdAt": "2023-06-23T13:44:56Z"
+    },
+    {
+      "name": "podopieczni",
+      "description": "Animals in care: A system supporting the promotion of animals for adoption and shelter data management (Bachelor's Thesis Project)",
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "topics": [],
+      "updatedAt": "2024-09-23T12:08:15Z",
+      "createdAt": "2022-11-05T21:03:49Z"
     }
   ],
   "closedIssues": 41,
   "openIssues": 0,
-  "fetchedAt": 1778682438795
+  "fetchedAt": 1779057472766
 }
