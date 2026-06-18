@@ -10,62 +10,80 @@
   "websiteUrl": "maciejgalinski.mg-digitalsolutions.com",
   "createdAt": "2021-03-11T09:53:47Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 698257,
-  "linesAdded": 470514,
-  "linesDeleted": 227743,
-  "commitCount": 712,
-  "totalCommits": 972,
+  "linesOfCodeChanged": 698657,
+  "linesAdded": 470727,
+  "linesDeleted": 227930,
+  "commitCount": 714,
+  "totalCommits": 974,
   "totalPullRequests": 203,
   "totalPullRequestReviews": 3,
-  "codeByteTotal": 4236032,
+  "codeByteTotal": 4735338,
   "topLanguages": [
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 3880583,
-      "percentage": 91.61
+      "value": 4339459,
+      "percentage": 91.64
     },
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
-      "value": 280190,
-      "percentage": 6.61
+      "value": 282768,
+      "percentage": 5.97
     },
     {
       "languageName": "C#",
       "color": "#178600",
       "value": 55930,
-      "percentage": 1.32
+      "percentage": 1.18
+    },
+    {
+      "languageName": "MDX",
+      "color": "#fcb32c",
+      "value": 28847,
+      "percentage": 0.61
     },
     {
       "languageName": "CSS",
       "color": "#663399",
-      "value": 17722,
-      "percentage": 0.42
+      "value": 25697,
+      "percentage": 0.54
     },
     {
       "languageName": "SCSS",
       "color": "#c6538c",
       "value": 1607,
-      "percentage": 0.04
+      "percentage": 0.03
+    },
+    {
+      "languageName": "HTML",
+      "color": "#e34c26",
+      "value": 560,
+      "percentage": 0.01
+    },
+    {
+      "languageName": "Handlebars",
+      "color": "#f7931e",
+      "value": 470,
+      "percentage": 0.01
     }
   ],
   "forkCount": 0,
   "starCount": 1,
   "starsGiven": 19,
   "followers": 3,
-  "following": 4,
-  "repositoriesContributedTo": 0,
+  "following": 3,
+  "repositoriesContributedTo": 1,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 2060,
+  "totalContributions": 2063,
   "contributionStats": {
-    "longestStreak": 130,
-    "currentStreak": 130,
+    "longestStreak": 131,
+    "currentStreak": 131,
     "mostActiveDay": "Monday",
     "averagePerDay": 1.07,
     "averagePerWeek": 7.48,
-    "averagePerMonth": 32.04,
+    "averagePerMonth": 32.07,
     "monthlyBreakdown": [
       {
         "month": "2021-03",
@@ -321,7 +339,7 @@
       },
       {
         "month": "2026-06",
-        "contributions": 54
+        "contributions": 57
       }
     ],
     "yearlyBreakdown": [
@@ -347,7 +365,7 @@
       },
       {
         "year": "2026",
-        "contributions": 530
+        "contributions": 533
       }
     ],
     "peakDay": {
@@ -356,77 +374,172 @@
     }
   },
   "repoStats": {
-    "totalRepos": 14,
-    "publicRepos": 14,
+    "totalRepos": 15,
+    "publicRepos": 15,
     "privateRepos": 0,
     "archivedRepos": 1,
     "forkedRepos": 0,
-    "originalRepos": 14,
-    "activeRepos": 11,
-    "reposWithStars": 2,
+    "originalRepos": 15,
+    "activeRepos": 12,
+    "reposWithStars": 3,
     "reposCreatedThisYear": 2,
-    "averageStarsPerRepo": 8.21
+    "averageStarsPerRepo": 481
   },
   "computedStats": {
-    "totalRepos": 14,
-    "publicRepos": 14,
+    "totalRepos": 15,
+    "publicRepos": 15,
     "privateRepos": 0,
     "archivedRepos": 1,
     "forkedRepos": 0,
-    "originalRepos": 14,
-    "activeRepos": 11,
-    "reposWithStars": 2,
+    "originalRepos": 15,
+    "activeRepos": 12,
+    "reposWithStars": 3,
     "reposCreatedThisYear": 2,
-    "averageStarsPerRepo": 8.21,
-    "languageCount": 5,
+    "averageStarsPerRepo": 481,
+    "languageCount": 8,
     "primaryLanguage": "TypeScript",
     "primaryLanguageThisYear": "TypeScript",
     "topLanguagesThisYear": [
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 3127747,
-        "percentage": 92.24
+        "value": 3586623,
+        "percentage": 92.2
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 248185,
-        "percentage": 7.32
+        "value": 250763,
+        "percentage": 6.45
+      },
+      {
+        "languageName": "MDX",
+        "color": "#fcb32c",
+        "value": 28847,
+        "percentage": 0.74
       },
       {
         "languageName": "CSS",
         "color": "#663399",
-        "value": 13337,
-        "percentage": 0.39
+        "value": 21312,
+        "percentage": 0.55
       },
       {
         "languageName": "SCSS",
         "color": "#c6538c",
         "value": 1607,
-        "percentage": 0.05
+        "percentage": 0.04
+      },
+      {
+        "languageName": "HTML",
+        "color": "#e34c26",
+        "value": 560,
+        "percentage": 0.01
+      },
+      {
+        "languageName": "Handlebars",
+        "color": "#f7931e",
+        "value": 470,
+        "percentage": 0.01
       }
     ],
-    "totalTopics": 0,
-    "topTopics": [],
-    "allTopics": [],
-    "contributionsThisYear": 530,
+    "totalTopics": 15,
+    "topTopics": [
+      {
+        "name": "nextjs",
+        "count": 1
+      },
+      {
+        "name": "prisma",
+        "count": 1
+      },
+      {
+        "name": "react",
+        "count": 1
+      },
+      {
+        "name": "tailwindcss",
+        "count": 1
+      },
+      {
+        "name": "typescript",
+        "count": 1
+      },
+      {
+        "name": "boilerplate",
+        "count": 1
+      },
+      {
+        "name": "clerk",
+        "count": 1
+      },
+      {
+        "name": "betterstack",
+        "count": 1
+      },
+      {
+        "name": "dark-mode",
+        "count": 1
+      },
+      {
+        "name": "feature-flags",
+        "count": 1
+      },
+      {
+        "name": "neon",
+        "count": 1
+      },
+      {
+        "name": "posthog",
+        "count": 1
+      },
+      {
+        "name": "sentry",
+        "count": 1
+      },
+      {
+        "name": "seo",
+        "count": 1
+      },
+      {
+        "name": "stripe",
+        "count": 1
+      }
+    ],
+    "allTopics": [
+      "betterstack",
+      "boilerplate",
+      "clerk",
+      "dark-mode",
+      "feature-flags",
+      "neon",
+      "nextjs",
+      "posthog",
+      "prisma",
+      "react",
+      "sentry",
+      "seo",
+      "stripe",
+      "tailwindcss",
+      "typescript"
+    ],
+    "contributionsThisYear": 533,
     "contributionsLastYear": 303,
-    "yearOverYearGrowth": 74.92,
+    "yearOverYearGrowth": 75.91,
     "mostProductiveMonth": {
       "month": "2023-10",
       "contributions": 171
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 972,
+    "totalCommitContributions": 974,
     "restrictedContributionsCount": 827,
-    "totalIssueContributions": 41,
+    "totalIssueContributions": 42,
     "totalRepositoryContributions": 13,
     "totalPullRequestContributions": 203,
     "totalPullRequestReviewContributions": 3,
     "contributionCalendar": {
-      "totalContributions": 2060,
+      "totalContributions": 2063,
       "weeks": [
         {
           "contributionDays": [
@@ -9259,8 +9372,12 @@
               "date": "2026-06-16"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 2,
               "date": "2026-06-17"
+            },
+            {
+              "contributionCount": 2,
+              "date": "2026-06-18"
             }
           ]
         }
@@ -9363,7 +9480,7 @@
       "isPrivate": false,
       "primaryLanguage": null,
       "topics": [],
-      "updatedAt": "2026-06-16T16:46:59Z",
+      "updatedAt": "2026-06-17T15:22:59Z",
       "createdAt": "2026-02-08T02:01:20Z"
     },
     {
@@ -9377,7 +9494,7 @@
       "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "topics": [],
-      "updatedAt": "2026-06-17T04:45:05Z",
+      "updatedAt": "2026-06-18T04:28:17Z",
       "createdAt": "2026-02-08T12:41:04Z"
     },
     {
@@ -9410,10 +9527,10 @@
     }
   ],
   "closedIssues": 41,
-  "openIssues": 0,
-  "fetchedAt": 1781709644358,
+  "openIssues": 1,
+  "fetchedAt": 1781795879506,
   "schemaVersion": 2,
-  "generatedAt": "2026-06-17T15:20:44.358Z",
+  "generatedAt": "2026-06-18T15:17:59.506Z",
   "profile": {
     "name": "macG",
     "login": "21142",
@@ -9426,18 +9543,18 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/80455577?u=ceea5fba454580cf1b70b7914b42ef28801d241b&v=4",
     "createdAt": "2021-03-11T09:53:47Z",
     "followers": 3,
-    "following": 4
+    "following": 3
   },
   "profileContributions": {
-    "totalContributions": 2060,
-    "totalCommitContributions": 972,
+    "totalContributions": 2063,
+    "totalCommitContributions": 974,
     "restrictedContributionsCount": 827,
-    "totalIssueContributions": 41,
+    "totalIssueContributions": 42,
     "totalRepositoryContributions": 13,
     "totalPullRequestContributions": 203,
     "totalPullRequestReviewContributions": 3,
     "contributionCalendar": {
-      "totalContributions": 2060,
+      "totalContributions": 2063,
       "weeks": [
         {
           "contributionDays": [
@@ -18270,20 +18387,24 @@
               "date": "2026-06-16"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 2,
               "date": "2026-06-17"
+            },
+            {
+              "contributionCount": 2,
+              "date": "2026-06-18"
             }
           ]
         }
       ]
     },
     "stats": {
-      "longestStreak": 130,
-      "currentStreak": 130,
+      "longestStreak": 131,
+      "currentStreak": 131,
       "mostActiveDay": "Monday",
       "averagePerDay": 1.07,
       "averagePerWeek": 7.48,
-      "averagePerMonth": 32.04,
+      "averagePerMonth": 32.07,
       "monthlyBreakdown": [
         {
           "month": "2021-03",
@@ -18539,7 +18660,7 @@
         },
         {
           "month": "2026-06",
-          "contributions": 54
+          "contributions": 57
         }
       ],
       "yearlyBreakdown": [
@@ -18565,7 +18686,7 @@
         },
         {
           "year": "2026",
-          "contributions": 530
+          "contributions": 533
         }
       ],
       "peakDay": {
@@ -18651,7 +18772,7 @@
         "nameWithOwner": "21142/stats",
         "owner": "21142",
         "counts": {
-          "commits": 130,
+          "commits": 131,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -18663,7 +18784,7 @@
         "nameWithOwner": "21142/stats-remotion",
         "owner": "21142",
         "counts": {
-          "commits": 135,
+          "commits": 136,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -18741,6 +18862,18 @@
           "pullRequestReviews": 2,
           "repositoryCreations": 0
         }
+      },
+      {
+        "repositoryId": "R_kgDOItNLCQ",
+        "nameWithOwner": "vercel/next-forge",
+        "owner": "vercel",
+        "counts": {
+          "commits": 0,
+          "issues": 1,
+          "pullRequests": 0,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 0
+        }
       }
     ],
     "completeness": {
@@ -18760,9 +18893,9 @@
   },
   "activity": {
     "totalPullRequests": 203,
-    "openIssues": 0,
+    "openIssues": 1,
     "closedIssues": 41,
-    "repositoriesContributedTo": 0,
+    "repositoriesContributedTo": 1,
     "discussionsStarted": 0,
     "discussionsAnswered": 0,
     "starsGiven": 19
@@ -18803,7 +18936,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1781709605669
+      "metadataFetchedAt": 1781795840967
     },
     {
       "id": "R_kgDONCEh7g",
@@ -19081,9 +19214,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2026-02-08T02:01:20Z",
-      "updatedAt": "2026-06-16T16:46:59Z",
-      "pushedAt": "2026-06-16T16:46:16Z",
-      "defaultBranchOid": "afc928136255b5fe149a1ce540eb5f3d8b6c0817",
+      "updatedAt": "2026-06-17T15:22:59Z",
+      "pushedAt": "2026-06-17T15:20:47Z",
+      "defaultBranchOid": "2e0c5e03c40af79292ccdb8cc0a43a6946aedbfc",
       "stars": 0,
       "forks": 0,
       "primaryLanguage": null,
@@ -19096,13 +19229,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 130,
+        "commits": 131,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1781709605669
+      "metadataFetchedAt": 1781795840967
     },
     {
       "id": "R_kgDORLYhzg",
@@ -19118,9 +19251,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2026-02-08T12:41:04Z",
-      "updatedAt": "2026-06-17T04:45:05Z",
-      "pushedAt": "2026-06-17T04:45:00Z",
-      "defaultBranchOid": "fdee1d5b27c40e9c1dc3eca4c2185a040769cda3",
+      "updatedAt": "2026-06-18T04:28:17Z",
+      "pushedAt": "2026-06-18T04:28:13Z",
+      "defaultBranchOid": "54d4836a68de169c46857a59bb213db6bb2ce286",
       "stars": 0,
       "forks": 0,
       "primaryLanguage": "TypeScript",
@@ -19152,13 +19285,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 135,
+        "commits": 136,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1781709605669
+      "metadataFetchedAt": 1781795840967
     },
     {
       "id": "R_kgDOM5m71Q",
@@ -19214,7 +19347,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1781709605669
+      "metadataFetchedAt": 1781795840967
     },
     {
       "id": "R_kgDOM_BwhA",
@@ -19499,52 +19632,221 @@
         "pullRequestReviews": 2,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1781709605076
+      "metadataFetchedAt": 1781795839976
+    },
+    {
+      "id": "R_kgDOItNLCQ",
+      "name": "next-forge",
+      "nameWithOwner": "vercel/next-forge",
+      "owner": "vercel",
+      "ownerType": "Organization",
+      "description": "Production-grade Turborepo template for Next.js apps.",
+      "url": "https://github.com/vercel/next-forge",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "visibility": "PUBLIC",
+      "viewerPermission": "READ",
+      "createdAt": "2023-01-02T04:19:54Z",
+      "updatedAt": "2026-06-18T09:47:39Z",
+      "pushedAt": "2026-05-28T14:33:12Z",
+      "defaultBranchOid": "f189de79ceef7c1ef69f61f12e272f99b4cdb699",
+      "stars": 7100,
+      "forks": 659,
+      "primaryLanguage": "TypeScript",
+      "topics": [
+        "nextjs",
+        "prisma",
+        "react",
+        "tailwindcss",
+        "typescript",
+        "boilerplate",
+        "clerk",
+        "betterstack",
+        "dark-mode",
+        "feature-flags",
+        "neon",
+        "posthog",
+        "sentry",
+        "seo",
+        "stripe"
+      ],
+      "languages": [
+        {
+          "languageName": "TypeScript",
+          "color": "#3178c6",
+          "value": 458876,
+          "percentage": 91.9
+        },
+        {
+          "languageName": "MDX",
+          "color": "#fcb32c",
+          "value": 28847,
+          "percentage": 5.78
+        },
+        {
+          "languageName": "CSS",
+          "color": "#663399",
+          "value": 7975,
+          "percentage": 1.6
+        },
+        {
+          "languageName": "JavaScript",
+          "color": "#f1e05a",
+          "value": 2578,
+          "percentage": 0.52
+        },
+        {
+          "languageName": "HTML",
+          "color": "#e34c26",
+          "value": 560,
+          "percentage": 0.11
+        },
+        {
+          "languageName": "Handlebars",
+          "color": "#f7931e",
+          "value": 470,
+          "percentage": 0.09
+        }
+      ],
+      "codeByteTotal": 499306,
+      "sources": [
+        "profile-contribution",
+        "cache",
+        "contributed"
+      ],
+      "contributionCounts": {
+        "commits": 0,
+        "issues": 1,
+        "pullRequests": 0,
+        "pullRequestReviews": 0,
+        "repositoryCreations": 0
+      },
+      "metadataFetchedAt": 1781795840967
     }
   ],
   "repoMetrics": {
     "starCount": 1,
     "forkCount": 0,
-    "codeByteTotal": 4236032,
+    "codeByteTotal": 4735338,
     "topLanguages": [
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 3880583,
-        "percentage": 91.61
+        "value": 4339459,
+        "percentage": 91.64
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 280190,
-        "percentage": 6.61
+        "value": 282768,
+        "percentage": 5.97
       },
       {
         "languageName": "C#",
         "color": "#178600",
         "value": 55930,
-        "percentage": 1.32
+        "percentage": 1.18
+      },
+      {
+        "languageName": "MDX",
+        "color": "#fcb32c",
+        "value": 28847,
+        "percentage": 0.61
       },
       {
         "languageName": "CSS",
         "color": "#663399",
-        "value": 17722,
-        "percentage": 0.42
+        "value": 25697,
+        "percentage": 0.54
       },
       {
         "languageName": "SCSS",
         "color": "#c6538c",
         "value": 1607,
-        "percentage": 0.04
+        "percentage": 0.03
+      },
+      {
+        "languageName": "HTML",
+        "color": "#e34c26",
+        "value": 560,
+        "percentage": 0.01
+      },
+      {
+        "languageName": "Handlebars",
+        "color": "#f7931e",
+        "value": 470,
+        "percentage": 0.01
       }
     ],
-    "topTopics": [],
+    "topTopics": [
+      {
+        "name": "nextjs",
+        "count": 1
+      },
+      {
+        "name": "prisma",
+        "count": 1
+      },
+      {
+        "name": "react",
+        "count": 1
+      },
+      {
+        "name": "tailwindcss",
+        "count": 1
+      },
+      {
+        "name": "typescript",
+        "count": 1
+      },
+      {
+        "name": "boilerplate",
+        "count": 1
+      },
+      {
+        "name": "clerk",
+        "count": 1
+      },
+      {
+        "name": "betterstack",
+        "count": 1
+      },
+      {
+        "name": "dark-mode",
+        "count": 1
+      },
+      {
+        "name": "feature-flags",
+        "count": 1
+      },
+      {
+        "name": "neon",
+        "count": 1
+      },
+      {
+        "name": "posthog",
+        "count": 1
+      },
+      {
+        "name": "sentry",
+        "count": 1
+      },
+      {
+        "name": "seo",
+        "count": 1
+      },
+      {
+        "name": "stripe",
+        "count": 1
+      }
+    ],
     "contributorStats": {
-      "totalCommits": 712,
-      "linesAdded": 470514,
-      "linesDeleted": 227743,
-      "linesOfCodeChanged": 698257,
-      "reposCompleted": 14,
+      "totalCommits": 714,
+      "linesAdded": 470727,
+      "linesDeleted": 227930,
+      "linesOfCodeChanged": 698657,
+      "reposCompleted": 15,
       "reposPending": 0,
       "reposFailed": 0
     },
@@ -19556,63 +19858,158 @@
       "reposFailed": 13
     },
     "repoStats": {
-      "totalRepos": 14,
-      "publicRepos": 14,
+      "totalRepos": 15,
+      "publicRepos": 15,
       "privateRepos": 0,
       "archivedRepos": 1,
       "forkedRepos": 0,
-      "originalRepos": 14,
-      "activeRepos": 11,
-      "reposWithStars": 2,
+      "originalRepos": 15,
+      "activeRepos": 12,
+      "reposWithStars": 3,
       "reposCreatedThisYear": 2,
-      "averageStarsPerRepo": 8.21
+      "averageStarsPerRepo": 481
     },
     "computedStats": {
-      "totalRepos": 14,
-      "publicRepos": 14,
+      "totalRepos": 15,
+      "publicRepos": 15,
       "privateRepos": 0,
       "archivedRepos": 1,
       "forkedRepos": 0,
-      "originalRepos": 14,
-      "activeRepos": 11,
-      "reposWithStars": 2,
+      "originalRepos": 15,
+      "activeRepos": 12,
+      "reposWithStars": 3,
       "reposCreatedThisYear": 2,
-      "averageStarsPerRepo": 8.21,
-      "languageCount": 5,
+      "averageStarsPerRepo": 481,
+      "languageCount": 8,
       "primaryLanguage": "TypeScript",
       "primaryLanguageThisYear": "TypeScript",
       "topLanguagesThisYear": [
         {
           "languageName": "TypeScript",
           "color": "#3178c6",
-          "value": 3127747,
-          "percentage": 92.24
+          "value": 3586623,
+          "percentage": 92.2
         },
         {
           "languageName": "JavaScript",
           "color": "#f1e05a",
-          "value": 248185,
-          "percentage": 7.32
+          "value": 250763,
+          "percentage": 6.45
+        },
+        {
+          "languageName": "MDX",
+          "color": "#fcb32c",
+          "value": 28847,
+          "percentage": 0.74
         },
         {
           "languageName": "CSS",
           "color": "#663399",
-          "value": 13337,
-          "percentage": 0.39
+          "value": 21312,
+          "percentage": 0.55
         },
         {
           "languageName": "SCSS",
           "color": "#c6538c",
           "value": 1607,
-          "percentage": 0.05
+          "percentage": 0.04
+        },
+        {
+          "languageName": "HTML",
+          "color": "#e34c26",
+          "value": 560,
+          "percentage": 0.01
+        },
+        {
+          "languageName": "Handlebars",
+          "color": "#f7931e",
+          "value": 470,
+          "percentage": 0.01
         }
       ],
-      "totalTopics": 0,
-      "topTopics": [],
-      "allTopics": [],
-      "contributionsThisYear": 530,
+      "totalTopics": 15,
+      "topTopics": [
+        {
+          "name": "nextjs",
+          "count": 1
+        },
+        {
+          "name": "prisma",
+          "count": 1
+        },
+        {
+          "name": "react",
+          "count": 1
+        },
+        {
+          "name": "tailwindcss",
+          "count": 1
+        },
+        {
+          "name": "typescript",
+          "count": 1
+        },
+        {
+          "name": "boilerplate",
+          "count": 1
+        },
+        {
+          "name": "clerk",
+          "count": 1
+        },
+        {
+          "name": "betterstack",
+          "count": 1
+        },
+        {
+          "name": "dark-mode",
+          "count": 1
+        },
+        {
+          "name": "feature-flags",
+          "count": 1
+        },
+        {
+          "name": "neon",
+          "count": 1
+        },
+        {
+          "name": "posthog",
+          "count": 1
+        },
+        {
+          "name": "sentry",
+          "count": 1
+        },
+        {
+          "name": "seo",
+          "count": 1
+        },
+        {
+          "name": "stripe",
+          "count": 1
+        }
+      ],
+      "allTopics": [
+        "betterstack",
+        "boilerplate",
+        "clerk",
+        "dark-mode",
+        "feature-flags",
+        "neon",
+        "nextjs",
+        "posthog",
+        "prisma",
+        "react",
+        "sentry",
+        "seo",
+        "stripe",
+        "tailwindcss",
+        "typescript"
+      ],
+      "contributionsThisYear": 533,
       "contributionsLastYear": 303,
-      "yearOverYearGrowth": 74.92,
+      "yearOverYearGrowth": 75.91,
       "mostProductiveMonth": {
         "month": "2023-10",
         "contributions": 171
@@ -19623,45 +20020,45 @@
     "readmeSummary": {
       "name": "macG",
       "username": "21142",
-      "totalContributions": 2060,
-      "currentStreak": 130,
-      "longestStreak": 130,
+      "totalContributions": 2063,
+      "currentStreak": 131,
+      "longestStreak": 131,
       "topLanguages": [
         {
           "languageName": "TypeScript",
           "color": "#3178c6",
-          "value": 3880583,
-          "percentage": 91.61
+          "value": 4339459,
+          "percentage": 91.64
         },
         {
           "languageName": "JavaScript",
           "color": "#f1e05a",
-          "value": 280190,
-          "percentage": 6.61
+          "value": 282768,
+          "percentage": 5.97
         },
         {
           "languageName": "C#",
           "color": "#178600",
           "value": 55930,
-          "percentage": 1.32
+          "percentage": 1.18
+        },
+        {
+          "languageName": "MDX",
+          "color": "#fcb32c",
+          "value": 28847,
+          "percentage": 0.61
         },
         {
           "languageName": "CSS",
           "color": "#663399",
-          "value": 17722,
-          "percentage": 0.42
-        },
-        {
-          "languageName": "SCSS",
-          "color": "#c6538c",
-          "value": 1607,
-          "percentage": 0.04
+          "value": 25697,
+          "percentage": 0.54
         }
       ],
       "starsReceived": 1,
       "forksReceived": 0,
-      "activeRepos": 11,
-      "refreshedAt": "2026-06-17T15:20:44.358Z",
+      "activeRepos": 12,
+      "refreshedAt": "2026-06-18T15:17:59.506Z",
       "complete": false
     },
     "cards": [
@@ -19673,18 +20070,18 @@
       {
         "id": "current-streak",
         "label": "Current streak",
-        "value": "130 days"
+        "value": "131 days"
       },
       {
         "id": "languages",
         "label": "Languages",
-        "value": 5,
+        "value": 8,
         "detail": "TypeScript leads"
       },
       {
         "id": "code-volume",
         "label": "Code volume",
-        "value": "4.0 MB"
+        "value": "4.5 MB"
       },
       {
         "id": "stars",
@@ -19715,7 +20112,7 @@
       },
       {
         "period": "2026",
-        "contributions": 530
+        "contributions": 533
       }
     ],
     "highlights": [
@@ -19735,7 +20132,7 @@
         "id": "top-language",
         "label": "Top language",
         "value": "TypeScript",
-        "detail": "91.61%"
+        "detail": "91.64%"
       }
     ],
     "remotion": {
@@ -19750,19 +20147,19 @@
           "id": "contributions",
           "title": "Contribution history",
           "metric": "2.1K",
-          "supportingText": "130 day longest streak"
+          "supportingText": "131 day longest streak"
         },
         {
           "id": "repositories",
           "title": "Repository footprint",
-          "metric": 14,
-          "supportingText": "11 active this year"
+          "metric": 15,
+          "supportingText": "12 active this year"
         },
         {
           "id": "languages",
           "title": "Language mix",
           "metric": "TypeScript",
-          "supportingText": "5 languages detected"
+          "supportingText": "8 languages detected"
         }
       ]
     }
@@ -19775,9 +20172,9 @@
     "redactedOptionalMetrics": 0
   },
   "collectionStatus": {
-    "startedAt": 1781709603209,
-    "finishedAt": 1781709644358,
-    "durationMs": 41149,
+    "startedAt": 1781795838570,
+    "finishedAt": 1781795879506,
+    "durationMs": 40936,
     "coreComplete": true,
     "complete": false,
     "cache": {
@@ -19785,12 +20182,12 @@
       "volatilePath": ".github-profile-stats/volatile-cache.json",
       "contributionYearsFromCache": 4,
       "contributionYearsFetched": 2,
-      "repositoriesFromCache": 13,
+      "repositoriesFromCache": 14,
       "repositoriesFetched": 0
     },
     "backfill": {
       "enabled": true,
-      "completedThisRun": 2,
+      "completedThisRun": 3,
       "pending": 0,
       "failedThisRun": 13,
       "skippedThisRun": 0
@@ -19798,15 +20195,15 @@
     "rateLimit": {
       "graphql": {
         "limit": 5000,
-        "remaining": 4989,
-        "used": 11,
-        "resetAt": "2026-06-17T16:16:22Z"
+        "remaining": 4985,
+        "used": 15,
+        "resetAt": "2026-06-18T15:34:36Z"
       },
       "rest": {
         "limit": 5000,
-        "remaining": 4992,
-        "used": 8,
-        "resetAt": "2026-06-17T15:38:50.000Z"
+        "remaining": 4999,
+        "used": 1,
+        "resetAt": "2026-06-18T16:17:51.000Z"
       }
     },
     "warnings": [
@@ -19814,40 +20211,40 @@
       "traffic 21142/packing-app-arch-example returned 403; retrying in 1000ms",
       "traffic 21142/21142 returned 403; retrying in 2000ms",
       "traffic 21142/packing-app-arch-example returned 403; retrying in 2000ms",
-      "traffic 21142/packing-app-arch-example returned 403; retrying in 4000ms",
-      "traffic 21142/21142 returned 403; retrying in 4000ms",
+      "traffic 21142/upvibe returned 403; retrying in 1000ms",
       "traffic 21142/podopieczni returned 403; retrying in 1000ms",
       "traffic 21142/podopieczni returned 403; retrying in 2000ms",
+      "traffic 21142/upvibe returned 403; retrying in 2000ms",
+      "traffic 21142/21142 returned 403; retrying in 4000ms",
+      "traffic 21142/packing-app-arch-example returned 403; retrying in 4000ms",
       "traffic 21142/podopieczni returned 403; retrying in 4000ms",
-      "traffic 21142/upvibe returned 403; retrying in 1000ms",
+      "traffic 21142/upvibe returned 403; retrying in 4000ms",
       "traffic 21142/twitopia returned 403; retrying in 1000ms",
       "traffic 21142/token-based-access returned 403; retrying in 1000ms",
-      "traffic 21142/upvibe returned 403; retrying in 2000ms",
       "traffic 21142/twitopia returned 403; retrying in 2000ms",
       "traffic 21142/token-based-access returned 403; retrying in 2000ms",
-      "traffic 21142/upvibe returned 403; retrying in 4000ms",
+      "traffic 21142/web3authenticator returned 403; retrying in 1000ms",
+      "traffic 21142/pay-with-erc20 returned 403; retrying in 1000ms",
+      "traffic 21142/web3authenticator returned 403; retrying in 2000ms",
+      "traffic 21142/pay-with-erc20 returned 403; retrying in 2000ms",
       "traffic 21142/twitopia returned 403; retrying in 4000ms",
       "traffic 21142/token-based-access returned 403; retrying in 4000ms",
-      "traffic 21142/web3authenticator returned 403; retrying in 1000ms",
-      "traffic 21142/web3authenticator returned 403; retrying in 2000ms",
       "traffic 21142/web3authenticator returned 403; retrying in 4000ms",
-      "traffic 21142/pay-with-erc20 returned 403; retrying in 1000ms",
+      "traffic 21142/pay-with-erc20 returned 403; retrying in 4000ms",
       "traffic 21142/swapdapp returned 403; retrying in 1000ms",
       "traffic 21142/merxio returned 403; retrying in 1000ms",
-      "traffic 21142/pay-with-erc20 returned 403; retrying in 2000ms",
       "traffic 21142/merxio returned 403; retrying in 2000ms",
       "traffic 21142/swapdapp returned 403; retrying in 2000ms",
-      "traffic 21142/pay-with-erc20 returned 403; retrying in 4000ms",
-      "traffic 21142/merxio returned 403; retrying in 4000ms",
-      "traffic 21142/swapdapp returned 403; retrying in 4000ms",
       "traffic 21142/stats returned 403; retrying in 1000ms",
-      "traffic 21142/stats returned 403; retrying in 2000ms",
-      "traffic 21142/stats returned 403; retrying in 4000ms",
       "traffic 21142/stats-remotion returned 403; retrying in 1000ms",
-      "traffic 21142/spotify-nextjs returned 403; retrying in 1000ms",
+      "traffic 21142/stats returned 403; retrying in 2000ms",
       "traffic 21142/stats-remotion returned 403; retrying in 2000ms",
-      "traffic 21142/spotify-nextjs returned 403; retrying in 2000ms",
+      "traffic 21142/swapdapp returned 403; retrying in 4000ms",
+      "traffic 21142/merxio returned 403; retrying in 4000ms",
+      "traffic 21142/stats returned 403; retrying in 4000ms",
       "traffic 21142/stats-remotion returned 403; retrying in 4000ms",
+      "traffic 21142/spotify-nextjs returned 403; retrying in 1000ms",
+      "traffic 21142/spotify-nextjs returned 403; retrying in 2000ms",
       "traffic 21142/spotify-nextjs returned 403; retrying in 4000ms"
     ],
     "errors": []
@@ -19864,62 +20261,80 @@
     "websiteUrl": "maciejgalinski.mg-digitalsolutions.com",
     "createdAt": "2021-03-11T09:53:47Z",
     "repoViews": 0,
-    "linesOfCodeChanged": 698257,
-    "linesAdded": 470514,
-    "linesDeleted": 227743,
-    "commitCount": 712,
-    "totalCommits": 972,
+    "linesOfCodeChanged": 698657,
+    "linesAdded": 470727,
+    "linesDeleted": 227930,
+    "commitCount": 714,
+    "totalCommits": 974,
     "totalPullRequests": 203,
     "totalPullRequestReviews": 3,
-    "codeByteTotal": 4236032,
+    "codeByteTotal": 4735338,
     "topLanguages": [
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 3880583,
-        "percentage": 91.61
+        "value": 4339459,
+        "percentage": 91.64
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 280190,
-        "percentage": 6.61
+        "value": 282768,
+        "percentage": 5.97
       },
       {
         "languageName": "C#",
         "color": "#178600",
         "value": 55930,
-        "percentage": 1.32
+        "percentage": 1.18
+      },
+      {
+        "languageName": "MDX",
+        "color": "#fcb32c",
+        "value": 28847,
+        "percentage": 0.61
       },
       {
         "languageName": "CSS",
         "color": "#663399",
-        "value": 17722,
-        "percentage": 0.42
+        "value": 25697,
+        "percentage": 0.54
       },
       {
         "languageName": "SCSS",
         "color": "#c6538c",
         "value": 1607,
-        "percentage": 0.04
+        "percentage": 0.03
+      },
+      {
+        "languageName": "HTML",
+        "color": "#e34c26",
+        "value": 560,
+        "percentage": 0.01
+      },
+      {
+        "languageName": "Handlebars",
+        "color": "#f7931e",
+        "value": 470,
+        "percentage": 0.01
       }
     ],
     "forkCount": 0,
     "starCount": 1,
     "starsGiven": 19,
     "followers": 3,
-    "following": 4,
-    "repositoriesContributedTo": 0,
+    "following": 3,
+    "repositoriesContributedTo": 1,
     "discussionsStarted": 0,
     "discussionsAnswered": 0,
-    "totalContributions": 2060,
+    "totalContributions": 2063,
     "contributionStats": {
-      "longestStreak": 130,
-      "currentStreak": 130,
+      "longestStreak": 131,
+      "currentStreak": 131,
       "mostActiveDay": "Monday",
       "averagePerDay": 1.07,
       "averagePerWeek": 7.48,
-      "averagePerMonth": 32.04,
+      "averagePerMonth": 32.07,
       "monthlyBreakdown": [
         {
           "month": "2021-03",
@@ -20175,7 +20590,7 @@
         },
         {
           "month": "2026-06",
-          "contributions": 54
+          "contributions": 57
         }
       ],
       "yearlyBreakdown": [
@@ -20201,7 +20616,7 @@
         },
         {
           "year": "2026",
-          "contributions": 530
+          "contributions": 533
         }
       ],
       "peakDay": {
@@ -20210,77 +20625,172 @@
       }
     },
     "repoStats": {
-      "totalRepos": 14,
-      "publicRepos": 14,
+      "totalRepos": 15,
+      "publicRepos": 15,
       "privateRepos": 0,
       "archivedRepos": 1,
       "forkedRepos": 0,
-      "originalRepos": 14,
-      "activeRepos": 11,
-      "reposWithStars": 2,
+      "originalRepos": 15,
+      "activeRepos": 12,
+      "reposWithStars": 3,
       "reposCreatedThisYear": 2,
-      "averageStarsPerRepo": 8.21
+      "averageStarsPerRepo": 481
     },
     "computedStats": {
-      "totalRepos": 14,
-      "publicRepos": 14,
+      "totalRepos": 15,
+      "publicRepos": 15,
       "privateRepos": 0,
       "archivedRepos": 1,
       "forkedRepos": 0,
-      "originalRepos": 14,
-      "activeRepos": 11,
-      "reposWithStars": 2,
+      "originalRepos": 15,
+      "activeRepos": 12,
+      "reposWithStars": 3,
       "reposCreatedThisYear": 2,
-      "averageStarsPerRepo": 8.21,
-      "languageCount": 5,
+      "averageStarsPerRepo": 481,
+      "languageCount": 8,
       "primaryLanguage": "TypeScript",
       "primaryLanguageThisYear": "TypeScript",
       "topLanguagesThisYear": [
         {
           "languageName": "TypeScript",
           "color": "#3178c6",
-          "value": 3127747,
-          "percentage": 92.24
+          "value": 3586623,
+          "percentage": 92.2
         },
         {
           "languageName": "JavaScript",
           "color": "#f1e05a",
-          "value": 248185,
-          "percentage": 7.32
+          "value": 250763,
+          "percentage": 6.45
+        },
+        {
+          "languageName": "MDX",
+          "color": "#fcb32c",
+          "value": 28847,
+          "percentage": 0.74
         },
         {
           "languageName": "CSS",
           "color": "#663399",
-          "value": 13337,
-          "percentage": 0.39
+          "value": 21312,
+          "percentage": 0.55
         },
         {
           "languageName": "SCSS",
           "color": "#c6538c",
           "value": 1607,
-          "percentage": 0.05
+          "percentage": 0.04
+        },
+        {
+          "languageName": "HTML",
+          "color": "#e34c26",
+          "value": 560,
+          "percentage": 0.01
+        },
+        {
+          "languageName": "Handlebars",
+          "color": "#f7931e",
+          "value": 470,
+          "percentage": 0.01
         }
       ],
-      "totalTopics": 0,
-      "topTopics": [],
-      "allTopics": [],
-      "contributionsThisYear": 530,
+      "totalTopics": 15,
+      "topTopics": [
+        {
+          "name": "nextjs",
+          "count": 1
+        },
+        {
+          "name": "prisma",
+          "count": 1
+        },
+        {
+          "name": "react",
+          "count": 1
+        },
+        {
+          "name": "tailwindcss",
+          "count": 1
+        },
+        {
+          "name": "typescript",
+          "count": 1
+        },
+        {
+          "name": "boilerplate",
+          "count": 1
+        },
+        {
+          "name": "clerk",
+          "count": 1
+        },
+        {
+          "name": "betterstack",
+          "count": 1
+        },
+        {
+          "name": "dark-mode",
+          "count": 1
+        },
+        {
+          "name": "feature-flags",
+          "count": 1
+        },
+        {
+          "name": "neon",
+          "count": 1
+        },
+        {
+          "name": "posthog",
+          "count": 1
+        },
+        {
+          "name": "sentry",
+          "count": 1
+        },
+        {
+          "name": "seo",
+          "count": 1
+        },
+        {
+          "name": "stripe",
+          "count": 1
+        }
+      ],
+      "allTopics": [
+        "betterstack",
+        "boilerplate",
+        "clerk",
+        "dark-mode",
+        "feature-flags",
+        "neon",
+        "nextjs",
+        "posthog",
+        "prisma",
+        "react",
+        "sentry",
+        "seo",
+        "stripe",
+        "tailwindcss",
+        "typescript"
+      ],
+      "contributionsThisYear": 533,
       "contributionsLastYear": 303,
-      "yearOverYearGrowth": 74.92,
+      "yearOverYearGrowth": 75.91,
       "mostProductiveMonth": {
         "month": "2023-10",
         "contributions": 171
       }
     },
     "contributionsCollection": {
-      "totalCommitContributions": 972,
+      "totalCommitContributions": 974,
       "restrictedContributionsCount": 827,
-      "totalIssueContributions": 41,
+      "totalIssueContributions": 42,
       "totalRepositoryContributions": 13,
       "totalPullRequestContributions": 203,
       "totalPullRequestReviewContributions": 3,
       "contributionCalendar": {
-        "totalContributions": 2060,
+        "totalContributions": 2063,
         "weeks": [
           {
             "contributionDays": [
@@ -29113,8 +29623,12 @@
                 "date": "2026-06-16"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 2,
                 "date": "2026-06-17"
+              },
+              {
+                "contributionCount": 2,
+                "date": "2026-06-18"
               }
             ]
           }
@@ -29217,7 +29731,7 @@
         "isPrivate": false,
         "primaryLanguage": null,
         "topics": [],
-        "updatedAt": "2026-06-16T16:46:59Z",
+        "updatedAt": "2026-06-17T15:22:59Z",
         "createdAt": "2026-02-08T02:01:20Z"
       },
       {
@@ -29231,7 +29745,7 @@
         "isPrivate": false,
         "primaryLanguage": "TypeScript",
         "topics": [],
-        "updatedAt": "2026-06-17T04:45:05Z",
+        "updatedAt": "2026-06-18T04:28:17Z",
         "createdAt": "2026-02-08T12:41:04Z"
       },
       {
@@ -29264,7 +29778,7 @@
       }
     ],
     "closedIssues": 41,
-    "openIssues": 0,
-    "fetchedAt": 1781709644358
+    "openIssues": 1,
+    "fetchedAt": 1781795879506
   }
 }

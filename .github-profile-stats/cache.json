@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1781709644710,
+  "updatedAt": 1781795879858,
   "contributionYears": {
     "2021": {
       "year": "2021",
@@ -7727,7 +7727,7 @@
       "year": "2025",
       "from": "2025-01-01T00:00:00.000Z",
       "to": "2026-01-01T00:00:00.000Z",
-      "fetchedAt": 1781709605076,
+      "fetchedAt": 1781795839976,
       "immutable": false,
       "data": {
         "totalCommitContributions": 76,
@@ -9478,7 +9478,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781709605076
+          "metadataFetchedAt": 1781795839976
         },
         {
           "id": "R_kgDOGP6O5Q",
@@ -9538,25 +9538,25 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781709605076
+          "metadataFetchedAt": 1781795839976
         }
       ]
     },
     "2026": {
       "year": "2026",
       "from": "2026-01-01T00:00:00.000Z",
-      "to": "2026-06-17T15:20:04.029Z",
-      "fetchedAt": 1781709605669,
+      "to": "2026-06-18T15:17:19.504Z",
+      "fetchedAt": 1781795840967,
       "immutable": false,
       "data": {
-        "totalCommitContributions": 270,
+        "totalCommitContributions": 272,
         "restrictedContributionsCount": 258,
-        "totalIssueContributions": 0,
+        "totalIssueContributions": 1,
         "totalRepositoryContributions": 2,
         "totalPullRequestContributions": 0,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-          "totalContributions": 530,
+          "totalContributions": 533,
           "weeks": [
             {
               "contributionDays": [
@@ -10325,8 +10325,12 @@
                   "date": "2026-06-16"
                 },
                 {
-                  "contributionCount": 1,
+                  "contributionCount": 2,
                   "date": "2026-06-17"
+                },
+                {
+                  "contributionCount": 2,
+                  "date": "2026-06-18"
                 }
               ]
             }
@@ -10351,7 +10355,7 @@
           "nameWithOwner": "21142/stats",
           "owner": "21142",
           "counts": {
-            "commits": 130,
+            "commits": 131,
             "issues": 0,
             "pullRequests": 0,
             "pullRequestReviews": 0,
@@ -10363,7 +10367,7 @@
           "nameWithOwner": "21142/stats-remotion",
           "owner": "21142",
           "counts": {
-            "commits": 135,
+            "commits": 136,
             "issues": 0,
             "pullRequests": 0,
             "pullRequestReviews": 0,
@@ -10377,6 +10381,18 @@
           "counts": {
             "commits": 1,
             "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          }
+        },
+        {
+          "repositoryId": "R_kgDOItNLCQ",
+          "nameWithOwner": "vercel/next-forge",
+          "owner": "vercel",
+          "counts": {
+            "commits": 0,
+            "issues": 1,
             "pullRequests": 0,
             "pullRequestReviews": 0,
             "repositoryCreations": 0
@@ -10417,7 +10433,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781709605669
+          "metadataFetchedAt": 1781795840967
         },
         {
           "id": "R_kgDORLIYjA",
@@ -10433,9 +10449,9 @@
           "visibility": "PUBLIC",
           "viewerPermission": "ADMIN",
           "createdAt": "2026-02-08T02:01:20Z",
-          "updatedAt": "2026-06-16T16:46:59Z",
-          "pushedAt": "2026-06-16T16:46:16Z",
-          "defaultBranchOid": "afc928136255b5fe149a1ce540eb5f3d8b6c0817",
+          "updatedAt": "2026-06-17T15:22:59Z",
+          "pushedAt": "2026-06-17T15:20:47Z",
+          "defaultBranchOid": "2e0c5e03c40af79292ccdb8cc0a43a6946aedbfc",
           "stars": 0,
           "forks": 0,
           "primaryLanguage": null,
@@ -10452,7 +10468,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781709605669
+          "metadataFetchedAt": 1781795840967
         },
         {
           "id": "R_kgDORLYhzg",
@@ -10468,9 +10484,9 @@
           "visibility": "PUBLIC",
           "viewerPermission": "ADMIN",
           "createdAt": "2026-02-08T12:41:04Z",
-          "updatedAt": "2026-06-17T04:45:05Z",
-          "pushedAt": "2026-06-17T04:45:00Z",
-          "defaultBranchOid": "fdee1d5b27c40e9c1dc3eca4c2185a040769cda3",
+          "updatedAt": "2026-06-18T04:28:17Z",
+          "pushedAt": "2026-06-18T04:28:13Z",
+          "defaultBranchOid": "54d4836a68de169c46857a59bb213db6bb2ce286",
           "stars": 0,
           "forks": 0,
           "primaryLanguage": "TypeScript",
@@ -10506,7 +10522,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781709605669
+          "metadataFetchedAt": 1781795840967
         },
         {
           "id": "R_kgDOM5m71Q",
@@ -10560,14 +10576,102 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781709605669
+          "metadataFetchedAt": 1781795840967
+        },
+        {
+          "id": "R_kgDOItNLCQ",
+          "name": "next-forge",
+          "nameWithOwner": "vercel/next-forge",
+          "owner": "vercel",
+          "ownerType": "Organization",
+          "description": "Production-grade Turborepo template for Next.js apps.",
+          "url": "https://github.com/vercel/next-forge",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "READ",
+          "createdAt": "2023-01-02T04:19:54Z",
+          "updatedAt": "2026-06-18T09:47:39Z",
+          "pushedAt": "2026-05-28T14:33:12Z",
+          "defaultBranchOid": "f189de79ceef7c1ef69f61f12e272f99b4cdb699",
+          "stars": 7100,
+          "forks": 659,
+          "primaryLanguage": "TypeScript",
+          "topics": [
+            "nextjs",
+            "prisma",
+            "react",
+            "tailwindcss",
+            "typescript",
+            "boilerplate",
+            "clerk",
+            "betterstack",
+            "dark-mode",
+            "feature-flags",
+            "neon",
+            "posthog",
+            "sentry",
+            "seo",
+            "stripe"
+          ],
+          "languages": [
+            {
+              "languageName": "TypeScript",
+              "color": "#3178c6",
+              "value": 458876,
+              "percentage": 91.9
+            },
+            {
+              "languageName": "MDX",
+              "color": "#fcb32c",
+              "value": 28847,
+              "percentage": 5.78
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 7975,
+              "percentage": 1.6
+            },
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 2578,
+              "percentage": 0.52
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 560,
+              "percentage": 0.11
+            },
+            {
+              "languageName": "Handlebars",
+              "color": "#f7931e",
+              "value": 470,
+              "percentage": 0.09
+            }
+          ],
+          "codeByteTotal": 499306,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1781795840967
         }
       ]
     }
   },
   "repositories": {
     "R_kgDOHAOf3g": {
-      "fetchedAt": 1781709611020,
+      "fetchedAt": 1781795846899,
       "repository": {
         "id": "R_kgDOHAOf3g",
         "name": "21142",
@@ -10603,11 +10707,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781709605669
+        "metadataFetchedAt": 1781795840967
       }
     },
     "R_kgDONCEh7g": {
-      "fetchedAt": 1781709611020,
+      "fetchedAt": 1781795846899,
       "repository": {
         "id": "R_kgDONCEh7g",
         "name": "merxio",
@@ -10666,7 +10770,7 @@
       }
     },
     "R_kgDOHMHOEg": {
-      "fetchedAt": 1781709611020,
+      "fetchedAt": 1781795846899,
       "repository": {
         "id": "R_kgDOHMHOEg",
         "name": "packing-app-arch-example",
@@ -10713,7 +10817,7 @@
       }
     },
     "R_kgDOM4eBoQ": {
-      "fetchedAt": 1781709611020,
+      "fetchedAt": 1781795846899,
       "repository": {
         "id": "R_kgDOM4eBoQ",
         "name": "pay-with-erc20",
@@ -10772,7 +10876,7 @@
       }
     },
     "R_kgDOIYO1NQ": {
-      "fetchedAt": 1781709611020,
+      "fetchedAt": 1781795846899,
       "repository": {
         "id": "R_kgDOIYO1NQ",
         "name": "podopieczni",
@@ -10831,7 +10935,7 @@
       }
     },
     "R_kgDOG66Syw": {
-      "fetchedAt": 1781709611020,
+      "fetchedAt": 1781795846899,
       "repository": {
         "id": "R_kgDOG66Syw",
         "name": "spotify-nextjs",
@@ -10884,7 +10988,7 @@
       }
     },
     "R_kgDORLIYjA": {
-      "fetchedAt": 1781709611020,
+      "fetchedAt": 1781795846899,
       "repository": {
         "id": "R_kgDORLIYjA",
         "name": "stats",
@@ -10899,9 +11003,9 @@
         "visibility": "PUBLIC",
         "viewerPermission": "ADMIN",
         "createdAt": "2026-02-08T02:01:20Z",
-        "updatedAt": "2026-06-16T16:46:59Z",
-        "pushedAt": "2026-06-16T16:46:16Z",
-        "defaultBranchOid": "afc928136255b5fe149a1ce540eb5f3d8b6c0817",
+        "updatedAt": "2026-06-17T15:22:59Z",
+        "pushedAt": "2026-06-17T15:20:47Z",
+        "defaultBranchOid": "2e0c5e03c40af79292ccdb8cc0a43a6946aedbfc",
         "stars": 0,
         "forks": 0,
         "primaryLanguage": null,
@@ -10920,11 +11024,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781709605669
+        "metadataFetchedAt": 1781795840967
       }
     },
     "R_kgDORLYhzg": {
-      "fetchedAt": 1781709611020,
+      "fetchedAt": 1781795846899,
       "repository": {
         "id": "R_kgDORLYhzg",
         "name": "stats-remotion",
@@ -10939,9 +11043,9 @@
         "visibility": "PUBLIC",
         "viewerPermission": "ADMIN",
         "createdAt": "2026-02-08T12:41:04Z",
-        "updatedAt": "2026-06-17T04:45:05Z",
-        "pushedAt": "2026-06-17T04:45:00Z",
-        "defaultBranchOid": "fdee1d5b27c40e9c1dc3eca4c2185a040769cda3",
+        "updatedAt": "2026-06-18T04:28:17Z",
+        "pushedAt": "2026-06-18T04:28:13Z",
+        "defaultBranchOid": "54d4836a68de169c46857a59bb213db6bb2ce286",
         "stars": 0,
         "forks": 0,
         "primaryLanguage": "TypeScript",
@@ -10979,11 +11083,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781709605669
+        "metadataFetchedAt": 1781795840967
       }
     },
     "R_kgDOM5m71Q": {
-      "fetchedAt": 1781709611020,
+      "fetchedAt": 1781795846899,
       "repository": {
         "id": "R_kgDOM5m71Q",
         "name": "swapdapp",
@@ -11038,11 +11142,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781709605669
+        "metadataFetchedAt": 1781795840967
       }
     },
     "R_kgDOM_BwhA": {
-      "fetchedAt": 1781709611020,
+      "fetchedAt": 1781795846899,
       "repository": {
         "id": "R_kgDOM_BwhA",
         "name": "token-based-access",
@@ -11101,7 +11205,7 @@
       }
     },
     "R_kgDOJzK38g": {
-      "fetchedAt": 1781709611020,
+      "fetchedAt": 1781795846899,
       "repository": {
         "id": "R_kgDOJzK38g",
         "name": "twitopia",
@@ -11160,7 +11264,7 @@
       }
     },
     "R_kgDOJyNUfg": {
-      "fetchedAt": 1781709611020,
+      "fetchedAt": 1781795846899,
       "repository": {
         "id": "R_kgDOJyNUfg",
         "name": "upvibe",
@@ -11219,7 +11323,7 @@
       }
     },
     "R_kgDOM3Q5ag": {
-      "fetchedAt": 1781709611020,
+      "fetchedAt": 1781795846899,
       "repository": {
         "id": "R_kgDOM3Q5ag",
         "name": "web3authenticator",
@@ -11278,7 +11382,7 @@
       }
     },
     "R_kgDOGP6O5Q": {
-      "fetchedAt": 1781709611020,
+      "fetchedAt": 1781795846899,
       "repository": {
         "id": "R_kgDOGP6O5Q",
         "name": "core",
@@ -11338,7 +11442,100 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781709605076
+        "metadataFetchedAt": 1781795839976
+      }
+    },
+    "R_kgDOItNLCQ": {
+      "fetchedAt": 1781795846899,
+      "repository": {
+        "id": "R_kgDOItNLCQ",
+        "name": "next-forge",
+        "nameWithOwner": "vercel/next-forge",
+        "owner": "vercel",
+        "ownerType": "Organization",
+        "description": "Production-grade Turborepo template for Next.js apps.",
+        "url": "https://github.com/vercel/next-forge",
+        "isArchived": false,
+        "isFork": false,
+        "isPrivate": false,
+        "visibility": "PUBLIC",
+        "viewerPermission": "READ",
+        "createdAt": "2023-01-02T04:19:54Z",
+        "updatedAt": "2026-06-18T09:47:39Z",
+        "pushedAt": "2026-05-28T14:33:12Z",
+        "defaultBranchOid": "f189de79ceef7c1ef69f61f12e272f99b4cdb699",
+        "stars": 7100,
+        "forks": 659,
+        "primaryLanguage": "TypeScript",
+        "topics": [
+          "nextjs",
+          "prisma",
+          "react",
+          "tailwindcss",
+          "typescript",
+          "boilerplate",
+          "clerk",
+          "betterstack",
+          "dark-mode",
+          "feature-flags",
+          "neon",
+          "posthog",
+          "sentry",
+          "seo",
+          "stripe"
+        ],
+        "languages": [
+          {
+            "languageName": "TypeScript",
+            "color": "#3178c6",
+            "value": 458876,
+            "percentage": 91.9
+          },
+          {
+            "languageName": "MDX",
+            "color": "#fcb32c",
+            "value": 28847,
+            "percentage": 5.78
+          },
+          {
+            "languageName": "CSS",
+            "color": "#663399",
+            "value": 7975,
+            "percentage": 1.6
+          },
+          {
+            "languageName": "JavaScript",
+            "color": "#f1e05a",
+            "value": 2578,
+            "percentage": 0.52
+          },
+          {
+            "languageName": "HTML",
+            "color": "#e34c26",
+            "value": 560,
+            "percentage": 0.11
+          },
+          {
+            "languageName": "Handlebars",
+            "color": "#f7931e",
+            "value": 470,
+            "percentage": 0.09
+          }
+        ],
+        "codeByteTotal": 499306,
+        "sources": [
+          "profile-contribution",
+          "cache",
+          "contributed"
+        ],
+        "contributionCounts": {
+          "commits": 0,
+          "issues": 0,
+          "pullRequests": 0,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 0
+        },
+        "metadataFetchedAt": 1781795840967
       }
     }
   },
@@ -11418,9 +11615,9 @@
     "R_kgDORLYhzg": {
       "additions": 24111,
       "deletions": 142,
-      "commits": 135,
-      "fetchedAt": 1781709619823,
-      "defaultBranchOid": "fdee1d5b27c40e9c1dc3eca4c2185a040769cda3",
+      "commits": 136,
+      "fetchedAt": 1781795848708,
+      "defaultBranchOid": "54d4836a68de169c46857a59bb213db6bb2ce286",
       "status": "fresh"
     },
     "R_kgDONCEh7g": {
@@ -11432,11 +11629,11 @@
       "status": "fresh"
     },
     "R_kgDORLIYjA": {
-      "additions": 61896,
-      "deletions": 20803,
-      "commits": 130,
-      "fetchedAt": 1781709615484,
-      "defaultBranchOid": "afc928136255b5fe149a1ce540eb5f3d8b6c0817",
+      "additions": 62109,
+      "deletions": 20990,
+      "commits": 131,
+      "fetchedAt": 1781795848714,
+      "defaultBranchOid": "2e0c5e03c40af79292ccdb8cc0a43a6946aedbfc",
       "status": "fresh"
     },
     "R_kgDOGP6O5Q": {
@@ -11453,6 +11650,14 @@
       "commits": 22,
       "fetchedAt": 1780670683178,
       "defaultBranchOid": "0f6d107743eb7890a7ff8e53909f672db89377f8",
+      "status": "fresh"
+    },
+    "R_kgDOItNLCQ": {
+      "additions": 0,
+      "deletions": 0,
+      "commits": 0,
+      "fetchedAt": 1781795871858,
+      "defaultBranchOid": "f189de79ceef7c1ef69f61f12e272f99b4cdb699",
       "status": "fresh"
     }
   },
@@ -11511,85 +11716,88 @@
       "contributors:R_kgDORLIYjA:fd138b3fc39afcbcbe46703b758fb85f333b2145": 1781628342762,
       "contributors:R_kgDORLYhzg:1685ba132100e4e3453103a8f1e1950f96ecfaa9": 1781628342781,
       "contributors:R_kgDORLIYjA:afc928136255b5fe149a1ce540eb5f3d8b6c0817": 1781709615484,
-      "contributors:R_kgDORLYhzg:fdee1d5b27c40e9c1dc3eca4c2185a040769cda3": 1781709619823
+      "contributors:R_kgDORLYhzg:fdee1d5b27c40e9c1dc3eca4c2185a040769cda3": 1781709619823,
+      "contributors:R_kgDORLYhzg:54d4836a68de169c46857a59bb213db6bb2ce286": 1781795848708,
+      "contributors:R_kgDORLIYjA:2e0c5e03c40af79292ccdb8cc0a43a6946aedbfc": 1781795848714,
+      "contributors:R_kgDOItNLCQ:f189de79ceef7c1ef69f61f12e272f99b4cdb699": 1781795871858
     },
     "failures": {
       "traffic:R_kgDOHMHOEg": {
         "key": "traffic:R_kgDOHMHOEg",
-        "failedAt": 1781709619261,
-        "attempts": 20,
+        "failedAt": 1781795854769,
+        "attempts": 21,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOIYO1NQ": {
         "key": "traffic:R_kgDOIYO1NQ",
-        "failedAt": 1781709623761,
-        "attempts": 20,
+        "failedAt": 1781795856538,
+        "attempts": 21,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOHAOf3g": {
         "key": "traffic:R_kgDOHAOf3g",
-        "failedAt": 1781709619482,
-        "attempts": 20,
+        "failedAt": 1781795854904,
+        "attempts": 21,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOJyNUfg": {
         "key": "traffic:R_kgDOJyNUfg",
-        "failedAt": 1781709627546,
-        "attempts": 20,
+        "failedAt": 1781795856789,
+        "attempts": 21,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOJzK38g": {
         "key": "traffic:R_kgDOJzK38g",
-        "failedAt": 1781709628122,
-        "attempts": 20,
+        "failedAt": 1781795863096,
+        "attempts": 21,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOM_BwhA": {
         "key": "traffic:R_kgDOM_BwhA",
-        "failedAt": 1781709628131,
-        "attempts": 20,
+        "failedAt": 1781795863055,
+        "attempts": 21,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOM4eBoQ": {
         "key": "traffic:R_kgDOM4eBoQ",
-        "failedAt": 1781709635933,
-        "attempts": 20,
+        "failedAt": 1781795864860,
+        "attempts": 21,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOM3Q5ag": {
         "key": "traffic:R_kgDOM3Q5ag",
-        "failedAt": 1781709631971,
-        "attempts": 20,
+        "failedAt": 1781795864648,
+        "attempts": 21,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOM5m71Q": {
         "key": "traffic:R_kgDOM5m71Q",
-        "failedAt": 1781709636555,
-        "attempts": 20,
+        "failedAt": 1781795871160,
+        "attempts": 21,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDONCEh7g": {
         "key": "traffic:R_kgDONCEh7g",
-        "failedAt": 1781709636231,
-        "attempts": 20,
+        "failedAt": 1781795871240,
+        "attempts": 21,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDORLIYjA": {
         "key": "traffic:R_kgDORLIYjA",
-        "failedAt": 1781709640431,
-        "attempts": 20,
+        "failedAt": 1781795872769,
+        "attempts": 21,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDORLYhzg": {
         "key": "traffic:R_kgDORLYhzg",
-        "failedAt": 1781709644129,
-        "attempts": 20,
+        "failedAt": 1781795872795,
+        "attempts": 21,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOG66Syw": {
         "key": "traffic:R_kgDOG66Syw",
-        "failedAt": 1781709644358,
-        "attempts": 20,
+        "failedAt": 1781795879506,
+        "attempts": 21,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       }
     }
