@@ -10,11 +10,11 @@
   "websiteUrl": "maciejgalinski.mg-digitalsolutions.com",
   "createdAt": "2021-03-11T09:53:47Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 704973,
-  "linesAdded": 474424,
-  "linesDeleted": 230549,
-  "commitCount": 740,
-  "totalCommits": 1000,
+  "linesOfCodeChanged": 705399,
+  "linesAdded": 474656,
+  "linesDeleted": 230743,
+  "commitCount": 742,
+  "totalCommits": 1002,
   "totalPullRequests": 203,
   "totalPullRequestReviews": 3,
   "codeByteTotal": 4735338,
@@ -76,14 +76,14 @@
   "repositoriesContributedTo": 1,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 2090,
+  "totalContributions": 2096,
   "contributionStats": {
-    "longestStreak": 144,
-    "currentStreak": 144,
-    "mostActiveDay": "Monday",
+    "longestStreak": 145,
+    "currentStreak": 145,
+    "mostActiveDay": "Thursday",
     "averagePerDay": 1.08,
-    "averagePerWeek": 7.53,
-    "averagePerMonth": 32.27,
+    "averagePerWeek": 7.55,
+    "averagePerMonth": 32.35,
     "monthlyBreakdown": [
       {
         "month": "2021-03",
@@ -343,7 +343,7 @@
       },
       {
         "month": "2026-07",
-        "contributions": 1
+        "contributions": 7
       }
     ],
     "yearlyBreakdown": [
@@ -369,7 +369,7 @@
       },
       {
         "year": "2026",
-        "contributions": 560
+        "contributions": 566
       }
     ],
     "peakDay": {
@@ -387,7 +387,7 @@
     "activeRepos": 12,
     "reposWithStars": 3,
     "reposCreatedThisYear": 2,
-    "averageStarsPerRepo": 482
+    "averageStarsPerRepo": 482.13
   },
   "computedStats": {
     "totalRepos": 15,
@@ -399,7 +399,7 @@
     "activeRepos": 12,
     "reposWithStars": 3,
     "reposCreatedThisYear": 2,
-    "averageStarsPerRepo": 482,
+    "averageStarsPerRepo": 482.13,
     "languageCount": 8,
     "primaryLanguage": "TypeScript",
     "primaryLanguageThisYear": "TypeScript",
@@ -527,23 +527,23 @@
       "tailwindcss",
       "typescript"
     ],
-    "contributionsThisYear": 560,
+    "contributionsThisYear": 566,
     "contributionsLastYear": 303,
-    "yearOverYearGrowth": 84.82,
+    "yearOverYearGrowth": 86.8,
     "mostProductiveMonth": {
       "month": "2023-10",
       "contributions": 171
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 1000,
-    "restrictedContributionsCount": 828,
+    "totalCommitContributions": 1002,
+    "restrictedContributionsCount": 832,
     "totalIssueContributions": 42,
     "totalRepositoryContributions": 13,
     "totalPullRequestContributions": 203,
     "totalPullRequestReviewContributions": 3,
     "contributionCalendar": {
-      "totalContributions": 2090,
+      "totalContributions": 2096,
       "weeks": [
         {
           "contributionDays": [
@@ -9440,8 +9440,12 @@
               "date": "2026-06-30"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 2,
               "date": "2026-07-01"
+            },
+            {
+              "contributionCount": 5,
+              "date": "2026-07-02"
             }
           ]
         }
@@ -9544,7 +9548,7 @@
       "isPrivate": false,
       "primaryLanguage": null,
       "topics": [],
-      "updatedAt": "2026-06-30T14:15:05Z",
+      "updatedAt": "2026-07-01T14:29:44Z",
       "createdAt": "2026-02-08T02:01:20Z"
     },
     {
@@ -9558,7 +9562,7 @@
       "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "topics": [],
-      "updatedAt": "2026-07-01T04:21:36Z",
+      "updatedAt": "2026-07-02T04:01:37Z",
       "createdAt": "2026-02-08T12:41:04Z"
     },
     {
@@ -9592,9 +9596,9 @@
   ],
   "closedIssues": 41,
   "openIssues": 1,
-  "fetchedAt": 1782916175254,
+  "fetchedAt": 1783000421513,
   "schemaVersion": 2,
-  "generatedAt": "2026-07-01T14:29:35.254Z",
+  "generatedAt": "2026-07-02T13:53:41.513Z",
   "profile": {
     "name": "macG",
     "login": "21142",
@@ -9610,15 +9614,15 @@
     "following": 3
   },
   "profileContributions": {
-    "totalContributions": 2090,
-    "totalCommitContributions": 1000,
-    "restrictedContributionsCount": 828,
+    "totalContributions": 2096,
+    "totalCommitContributions": 1002,
+    "restrictedContributionsCount": 832,
     "totalIssueContributions": 42,
     "totalRepositoryContributions": 13,
     "totalPullRequestContributions": 203,
     "totalPullRequestReviewContributions": 3,
     "contributionCalendar": {
-      "totalContributions": 2090,
+      "totalContributions": 2096,
       "weeks": [
         {
           "contributionDays": [
@@ -18515,20 +18519,24 @@
               "date": "2026-06-30"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 2,
               "date": "2026-07-01"
+            },
+            {
+              "contributionCount": 5,
+              "date": "2026-07-02"
             }
           ]
         }
       ]
     },
     "stats": {
-      "longestStreak": 144,
-      "currentStreak": 144,
-      "mostActiveDay": "Monday",
+      "longestStreak": 145,
+      "currentStreak": 145,
+      "mostActiveDay": "Thursday",
       "averagePerDay": 1.08,
-      "averagePerWeek": 7.53,
-      "averagePerMonth": 32.27,
+      "averagePerWeek": 7.55,
+      "averagePerMonth": 32.35,
       "monthlyBreakdown": [
         {
           "month": "2021-03",
@@ -18788,7 +18796,7 @@
         },
         {
           "month": "2026-07",
-          "contributions": 1
+          "contributions": 7
         }
       ],
       "yearlyBreakdown": [
@@ -18814,7 +18822,7 @@
         },
         {
           "year": "2026",
-          "contributions": 560
+          "contributions": 566
         }
       ],
       "peakDay": {
@@ -18900,7 +18908,7 @@
         "nameWithOwner": "21142/stats",
         "owner": "21142",
         "counts": {
-          "commits": 144,
+          "commits": 145,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -18912,7 +18920,7 @@
         "nameWithOwner": "21142/stats-remotion",
         "owner": "21142",
         "counts": {
-          "commits": 149,
+          "commits": 150,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -19064,7 +19072,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1782916138396
+      "metadataFetchedAt": 1783000381808
     },
     {
       "id": "R_kgDONCEh7g",
@@ -19342,9 +19350,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2026-02-08T02:01:20Z",
-      "updatedAt": "2026-06-30T14:15:05Z",
-      "pushedAt": "2026-06-30T14:13:14Z",
-      "defaultBranchOid": "cc45c093f1de4de5ab8d37c2c6e06af476365850",
+      "updatedAt": "2026-07-01T14:29:44Z",
+      "pushedAt": "2026-07-01T14:29:37Z",
+      "defaultBranchOid": "a6ef5834f0b439802df3de0c2a81f9126de4dc13",
       "stars": 0,
       "forks": 0,
       "primaryLanguage": null,
@@ -19357,13 +19365,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 144,
+        "commits": 145,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782916138396
+      "metadataFetchedAt": 1783000381808
     },
     {
       "id": "R_kgDORLYhzg",
@@ -19379,9 +19387,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2026-02-08T12:41:04Z",
-      "updatedAt": "2026-07-01T04:21:36Z",
-      "pushedAt": "2026-07-01T04:21:32Z",
-      "defaultBranchOid": "a6a89b1c78cb3ba825becc9b3f5e237bade733fa",
+      "updatedAt": "2026-07-02T04:01:37Z",
+      "pushedAt": "2026-07-02T04:01:33Z",
+      "defaultBranchOid": "7f6e908da732eb7e7d8ea05a39108c7c766885f5",
       "stars": 0,
       "forks": 0,
       "primaryLanguage": "TypeScript",
@@ -19413,13 +19421,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 149,
+        "commits": 150,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782916138396
+      "metadataFetchedAt": 1783000381808
     },
     {
       "id": "R_kgDOM5m71Q",
@@ -19475,7 +19483,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1782916138396
+      "metadataFetchedAt": 1783000381808
     },
     {
       "id": "R_kgDOM_BwhA",
@@ -19760,7 +19768,7 @@
         "pullRequestReviews": 2,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1782916137466
+      "metadataFetchedAt": 1783000380912
     },
     {
       "id": "R_kgDOItNLCQ",
@@ -19776,10 +19784,10 @@
       "visibility": "PUBLIC",
       "viewerPermission": "READ",
       "createdAt": "2023-01-02T04:19:54Z",
-      "updatedAt": "2026-07-01T13:49:44Z",
+      "updatedAt": "2026-07-02T12:26:03Z",
       "pushedAt": "2026-05-28T14:33:12Z",
       "defaultBranchOid": "f189de79ceef7c1ef69f61f12e272f99b4cdb699",
-      "stars": 7115,
+      "stars": 7117,
       "forks": 661,
       "primaryLanguage": "TypeScript",
       "topics": [
@@ -19850,7 +19858,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1782916138396
+      "metadataFetchedAt": 1783000381808
     }
   ],
   "repoMetrics": {
@@ -19970,10 +19978,10 @@
       }
     ],
     "contributorStats": {
-      "totalCommits": 740,
-      "linesAdded": 474424,
-      "linesDeleted": 230549,
-      "linesOfCodeChanged": 704973,
+      "totalCommits": 742,
+      "linesAdded": 474656,
+      "linesDeleted": 230743,
+      "linesOfCodeChanged": 705399,
       "reposCompleted": 15,
       "reposPending": 0,
       "reposFailed": 0
@@ -19995,7 +20003,7 @@
       "activeRepos": 12,
       "reposWithStars": 3,
       "reposCreatedThisYear": 2,
-      "averageStarsPerRepo": 482
+      "averageStarsPerRepo": 482.13
     },
     "computedStats": {
       "totalRepos": 15,
@@ -20007,7 +20015,7 @@
       "activeRepos": 12,
       "reposWithStars": 3,
       "reposCreatedThisYear": 2,
-      "averageStarsPerRepo": 482,
+      "averageStarsPerRepo": 482.13,
       "languageCount": 8,
       "primaryLanguage": "TypeScript",
       "primaryLanguageThisYear": "TypeScript",
@@ -20135,9 +20143,9 @@
         "tailwindcss",
         "typescript"
       ],
-      "contributionsThisYear": 560,
+      "contributionsThisYear": 566,
       "contributionsLastYear": 303,
-      "yearOverYearGrowth": 84.82,
+      "yearOverYearGrowth": 86.8,
       "mostProductiveMonth": {
         "month": "2023-10",
         "contributions": 171
@@ -20148,9 +20156,9 @@
     "readmeSummary": {
       "name": "macG",
       "username": "21142",
-      "totalContributions": 2090,
-      "currentStreak": 144,
-      "longestStreak": 144,
+      "totalContributions": 2096,
+      "currentStreak": 145,
+      "longestStreak": 145,
       "topLanguages": [
         {
           "languageName": "TypeScript",
@@ -20186,7 +20194,7 @@
       "starsReceived": 1,
       "forksReceived": 0,
       "activeRepos": 12,
-      "refreshedAt": "2026-07-01T14:29:35.254Z",
+      "refreshedAt": "2026-07-02T13:53:41.513Z",
       "complete": false
     },
     "cards": [
@@ -20198,7 +20206,7 @@
       {
         "id": "current-streak",
         "label": "Current streak",
-        "value": "144 days"
+        "value": "145 days"
       },
       {
         "id": "languages",
@@ -20240,7 +20248,7 @@
       },
       {
         "period": "2026",
-        "contributions": 560
+        "contributions": 566
       }
     ],
     "highlights": [
@@ -20275,7 +20283,7 @@
           "id": "contributions",
           "title": "Contribution history",
           "metric": "2.1K",
-          "supportingText": "144 day longest streak"
+          "supportingText": "145 day longest streak"
         },
         {
           "id": "repositories",
@@ -20300,9 +20308,9 @@
     "redactedOptionalMetrics": 0
   },
   "collectionStatus": {
-    "startedAt": 1782916136069,
-    "finishedAt": 1782916175254,
-    "durationMs": 39185,
+    "startedAt": 1783000379364,
+    "finishedAt": 1783000421513,
+    "durationMs": 42149,
     "coreComplete": true,
     "complete": false,
     "cache": {
@@ -20323,56 +20331,56 @@
     "rateLimit": {
       "graphql": {
         "limit": 5000,
-        "remaining": 4985,
-        "used": 15,
-        "resetAt": "2026-07-01T14:53:11Z"
+        "remaining": 4891,
+        "used": 109,
+        "resetAt": "2026-07-02T13:53:38Z"
       },
       "rest": {
         "limit": 5000,
-        "remaining": 4994,
-        "used": 6,
-        "resetAt": "2026-07-01T14:31:26.000Z"
+        "remaining": 4984,
+        "used": 16,
+        "resetAt": "2026-07-02T14:04:44.000Z"
       }
     },
     "warnings": [
-      "traffic 21142/21142 returned 403; retrying in 1000ms",
       "traffic 21142/packing-app-arch-example returned 403; retrying in 1000ms",
+      "traffic 21142/21142 returned 403; retrying in 1000ms",
       "traffic 21142/21142 returned 403; retrying in 2000ms",
       "traffic 21142/packing-app-arch-example returned 403; retrying in 2000ms",
-      "traffic 21142/podopieczni returned 403; retrying in 1000ms",
-      "traffic 21142/podopieczni returned 403; retrying in 2000ms",
-      "traffic 21142/21142 returned 403; retrying in 4000ms",
       "traffic 21142/packing-app-arch-example returned 403; retrying in 4000ms",
+      "traffic 21142/21142 returned 403; retrying in 4000ms",
+      "traffic 21142/podopieczni returned 403; retrying in 1000ms",
       "traffic 21142/upvibe returned 403; retrying in 1000ms",
-      "traffic 21142/podopieczni returned 403; retrying in 4000ms",
-      "traffic 21142/upvibe returned 403; retrying in 2000ms",
-      "traffic 21142/upvibe returned 403; retrying in 4000ms",
       "traffic 21142/twitopia returned 403; retrying in 1000ms",
       "traffic 21142/token-based-access returned 403; retrying in 1000ms",
-      "traffic 21142/twitopia returned 403; retrying in 2000ms",
+      "traffic 21142/podopieczni returned 403; retrying in 2000ms",
+      "traffic 21142/upvibe returned 403; retrying in 2000ms",
       "traffic 21142/token-based-access returned 403; retrying in 2000ms",
-      "traffic 21142/web3authenticator returned 403; retrying in 1000ms",
-      "traffic 21142/web3authenticator returned 403; retrying in 2000ms",
-      "traffic 21142/twitopia returned 403; retrying in 4000ms",
+      "traffic 21142/twitopia returned 403; retrying in 2000ms",
+      "traffic 21142/podopieczni returned 403; retrying in 4000ms",
+      "traffic 21142/upvibe returned 403; retrying in 4000ms",
       "traffic 21142/token-based-access returned 403; retrying in 4000ms",
+      "traffic 21142/twitopia returned 403; retrying in 4000ms",
+      "traffic 21142/web3authenticator returned 403; retrying in 1000ms",
       "traffic 21142/pay-with-erc20 returned 403; retrying in 1000ms",
-      "traffic 21142/pay-with-erc20 returned 403; retrying in 2000ms",
-      "traffic 21142/web3authenticator returned 403; retrying in 4000ms",
-      "traffic 21142/pay-with-erc20 returned 403; retrying in 4000ms",
       "traffic 21142/swapdapp returned 403; retrying in 1000ms",
       "traffic 21142/merxio returned 403; retrying in 1000ms",
+      "traffic 21142/web3authenticator returned 403; retrying in 2000ms",
+      "traffic 21142/pay-with-erc20 returned 403; retrying in 2000ms",
       "traffic 21142/swapdapp returned 403; retrying in 2000ms",
       "traffic 21142/merxio returned 403; retrying in 2000ms",
-      "traffic 21142/stats returned 403; retrying in 1000ms",
-      "traffic 21142/stats returned 403; retrying in 2000ms",
+      "traffic 21142/web3authenticator returned 403; retrying in 4000ms",
+      "traffic 21142/pay-with-erc20 returned 403; retrying in 4000ms",
       "traffic 21142/swapdapp returned 403; retrying in 4000ms",
       "traffic 21142/merxio returned 403; retrying in 4000ms",
+      "traffic 21142/stats returned 403; retrying in 1000ms",
       "traffic 21142/stats-remotion returned 403; retrying in 1000ms",
-      "traffic 21142/stats returned 403; retrying in 4000ms",
-      "traffic 21142/stats-remotion returned 403; retrying in 2000ms",
-      "traffic 21142/stats-remotion returned 403; retrying in 4000ms",
       "traffic 21142/spotify-nextjs returned 403; retrying in 1000ms",
+      "traffic 21142/stats returned 403; retrying in 2000ms",
+      "traffic 21142/stats-remotion returned 403; retrying in 2000ms",
       "traffic 21142/spotify-nextjs returned 403; retrying in 2000ms",
+      "traffic 21142/stats returned 403; retrying in 4000ms",
+      "traffic 21142/stats-remotion returned 403; retrying in 4000ms",
       "traffic 21142/spotify-nextjs returned 403; retrying in 4000ms"
     ],
     "errors": []
@@ -20389,11 +20397,11 @@
     "websiteUrl": "maciejgalinski.mg-digitalsolutions.com",
     "createdAt": "2021-03-11T09:53:47Z",
     "repoViews": 0,
-    "linesOfCodeChanged": 704973,
-    "linesAdded": 474424,
-    "linesDeleted": 230549,
-    "commitCount": 740,
-    "totalCommits": 1000,
+    "linesOfCodeChanged": 705399,
+    "linesAdded": 474656,
+    "linesDeleted": 230743,
+    "commitCount": 742,
+    "totalCommits": 1002,
     "totalPullRequests": 203,
     "totalPullRequestReviews": 3,
     "codeByteTotal": 4735338,
@@ -20455,14 +20463,14 @@
     "repositoriesContributedTo": 1,
     "discussionsStarted": 0,
     "discussionsAnswered": 0,
-    "totalContributions": 2090,
+    "totalContributions": 2096,
     "contributionStats": {
-      "longestStreak": 144,
-      "currentStreak": 144,
-      "mostActiveDay": "Monday",
+      "longestStreak": 145,
+      "currentStreak": 145,
+      "mostActiveDay": "Thursday",
       "averagePerDay": 1.08,
-      "averagePerWeek": 7.53,
-      "averagePerMonth": 32.27,
+      "averagePerWeek": 7.55,
+      "averagePerMonth": 32.35,
       "monthlyBreakdown": [
         {
           "month": "2021-03",
@@ -20722,7 +20730,7 @@
         },
         {
           "month": "2026-07",
-          "contributions": 1
+          "contributions": 7
         }
       ],
       "yearlyBreakdown": [
@@ -20748,7 +20756,7 @@
         },
         {
           "year": "2026",
-          "contributions": 560
+          "contributions": 566
         }
       ],
       "peakDay": {
@@ -20766,7 +20774,7 @@
       "activeRepos": 12,
       "reposWithStars": 3,
       "reposCreatedThisYear": 2,
-      "averageStarsPerRepo": 482
+      "averageStarsPerRepo": 482.13
     },
     "computedStats": {
       "totalRepos": 15,
@@ -20778,7 +20786,7 @@
       "activeRepos": 12,
       "reposWithStars": 3,
       "reposCreatedThisYear": 2,
-      "averageStarsPerRepo": 482,
+      "averageStarsPerRepo": 482.13,
       "languageCount": 8,
       "primaryLanguage": "TypeScript",
       "primaryLanguageThisYear": "TypeScript",
@@ -20906,23 +20914,23 @@
         "tailwindcss",
         "typescript"
       ],
-      "contributionsThisYear": 560,
+      "contributionsThisYear": 566,
       "contributionsLastYear": 303,
-      "yearOverYearGrowth": 84.82,
+      "yearOverYearGrowth": 86.8,
       "mostProductiveMonth": {
         "month": "2023-10",
         "contributions": 171
       }
     },
     "contributionsCollection": {
-      "totalCommitContributions": 1000,
-      "restrictedContributionsCount": 828,
+      "totalCommitContributions": 1002,
+      "restrictedContributionsCount": 832,
       "totalIssueContributions": 42,
       "totalRepositoryContributions": 13,
       "totalPullRequestContributions": 203,
       "totalPullRequestReviewContributions": 3,
       "contributionCalendar": {
-        "totalContributions": 2090,
+        "totalContributions": 2096,
         "weeks": [
           {
             "contributionDays": [
@@ -29819,8 +29827,12 @@
                 "date": "2026-06-30"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 2,
                 "date": "2026-07-01"
+              },
+              {
+                "contributionCount": 5,
+                "date": "2026-07-02"
               }
             ]
           }
@@ -29923,7 +29935,7 @@
         "isPrivate": false,
         "primaryLanguage": null,
         "topics": [],
-        "updatedAt": "2026-06-30T14:15:05Z",
+        "updatedAt": "2026-07-01T14:29:44Z",
         "createdAt": "2026-02-08T02:01:20Z"
       },
       {
@@ -29937,7 +29949,7 @@
         "isPrivate": false,
         "primaryLanguage": "TypeScript",
         "topics": [],
-        "updatedAt": "2026-07-01T04:21:36Z",
+        "updatedAt": "2026-07-02T04:01:37Z",
         "createdAt": "2026-02-08T12:41:04Z"
       },
       {
@@ -29971,6 +29983,6 @@
     ],
     "closedIssues": 41,
     "openIssues": 1,
-    "fetchedAt": 1782916175254
+    "fetchedAt": 1783000421513
   }
 }
