@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1784641353455,
+  "updatedAt": 1788131293601,
   "contributionYears": {
     "2021": {
       "year": "2021",
@@ -7727,17 +7727,17 @@
       "year": "2025",
       "from": "2025-01-01T00:00:00.000Z",
       "to": "2026-01-01T00:00:00.000Z",
-      "fetchedAt": 1784641314103,
+      "fetchedAt": 1788131257365,
       "immutable": false,
       "data": {
-        "totalCommitContributions": 76,
-        "restrictedContributionsCount": 184,
+        "totalCommitContributions": 242,
+        "restrictedContributionsCount": 0,
         "totalIssueContributions": 0,
-        "totalRepositoryContributions": 0,
-        "totalPullRequestContributions": 41,
+        "totalRepositoryContributions": 16,
+        "totalPullRequestContributions": 47,
         "totalPullRequestReviewContributions": 2,
         "contributionCalendar": {
-          "totalContributions": 303,
+          "totalContributions": 308,
           "weeks": [
             {
               "contributionDays": [
@@ -8578,7 +8578,7 @@
                   "date": "2025-07-02"
                 },
                 {
-                  "contributionCount": 0,
+                  "contributionCount": 1,
                   "date": "2025-07-03"
                 },
                 {
@@ -8734,11 +8734,11 @@
                   "date": "2025-08-05"
                 },
                 {
-                  "contributionCount": 0,
+                  "contributionCount": 2,
                   "date": "2025-08-06"
                 },
                 {
-                  "contributionCount": 6,
+                  "contributionCount": 8,
                   "date": "2025-08-07"
                 },
                 {
@@ -9478,7 +9478,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1784641314103
+          "metadataFetchedAt": 1788131257365
         },
         {
           "id": "R_kgDOGP6O5Q",
@@ -9494,10 +9494,10 @@
           "visibility": "PUBLIC",
           "viewerPermission": "READ",
           "createdAt": "2021-10-20T13:12:41Z",
-          "updatedAt": "2026-06-13T16:39:20Z",
+          "updatedAt": "2026-08-06T18:15:04Z",
           "pushedAt": "2026-04-27T09:10:17Z",
           "defaultBranchOid": "2aa33936eef0254f7098f4111de088d2c002040d",
-          "stars": 114,
+          "stars": 113,
           "forks": 12,
           "primaryLanguage": "TypeScript",
           "topics": [],
@@ -9538,25 +9538,25 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1784641314103
+          "metadataFetchedAt": 1788131257365
         }
       ]
     },
     "2026": {
       "year": "2026",
       "from": "2026-01-01T00:00:00.000Z",
-      "to": "2026-07-21T13:41:53.334Z",
-      "fetchedAt": 1784641314937,
+      "to": "2026-08-30T23:07:36.506Z",
+      "fetchedAt": 1788131258350,
       "immutable": false,
       "data": {
-        "totalCommitContributions": 337,
-        "restrictedContributionsCount": 263,
+        "totalCommitContributions": 631,
+        "restrictedContributionsCount": 0,
         "totalIssueContributions": 1,
-        "totalRepositoryContributions": 2,
-        "totalPullRequestContributions": 0,
+        "totalRepositoryContributions": 34,
+        "totalPullRequestContributions": 2,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-          "totalContributions": 603,
+          "totalContributions": 669,
           "weeks": [
             {
               "contributionDays": [
@@ -9969,7 +9969,7 @@
                   "date": "2026-03-30"
                 },
                 {
-                  "contributionCount": 4,
+                  "contributionCount": 6,
                   "date": "2026-03-31"
                 },
                 {
@@ -10009,7 +10009,7 @@
                   "date": "2026-04-08"
                 },
                 {
-                  "contributionCount": 6,
+                  "contributionCount": 7,
                   "date": "2026-04-09"
                 },
                 {
@@ -10481,8 +10481,192 @@
                   "date": "2026-07-20"
                 },
                 {
-                  "contributionCount": 1,
+                  "contributionCount": 2,
                   "date": "2026-07-21"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-07-22"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-07-23"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-07-24"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-07-25"
+                }
+              ]
+            },
+            {
+              "contributionDays": [
+                {
+                  "contributionCount": 1,
+                  "date": "2026-07-26"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-07-27"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-07-28"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-07-29"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-07-30"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-07-31"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-01"
+                }
+              ]
+            },
+            {
+              "contributionDays": [
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-02"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-03"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-04"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-05"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-06"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-07"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-08"
+                }
+              ]
+            },
+            {
+              "contributionDays": [
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-09"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-10"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-11"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-12"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-13"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-14"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-15"
+                }
+              ]
+            },
+            {
+              "contributionDays": [
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-16"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-17"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-18"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-19"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-20"
+                },
+                {
+                  "contributionCount": 2,
+                  "date": "2026-08-21"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-22"
+                }
+              ]
+            },
+            {
+              "contributionDays": [
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-23"
+                },
+                {
+                  "contributionCount": 2,
+                  "date": "2026-08-24"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-25"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-26"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-27"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-28"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-08-29"
+                }
+              ]
+            },
+            {
+              "contributionDays": [
+                {
+                  "contributionCount": 21,
+                  "date": "2026-08-30"
                 }
               ]
             }
@@ -10507,7 +10691,7 @@
           "nameWithOwner": "21142/stats",
           "owner": "21142",
           "counts": {
-            "commits": 163,
+            "commits": 164,
             "issues": 0,
             "pullRequests": 0,
             "pullRequestReviews": 0,
@@ -10519,7 +10703,7 @@
           "nameWithOwner": "21142/stats-remotion",
           "owner": "21142",
           "counts": {
-            "commits": 169,
+            "commits": 209,
             "issues": 0,
             "pullRequests": 0,
             "pullRequestReviews": 0,
@@ -10585,7 +10769,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1784641314937
+          "metadataFetchedAt": 1788131258350
         },
         {
           "id": "R_kgDORLIYjA",
@@ -10601,9 +10785,9 @@
           "visibility": "PUBLIC",
           "viewerPermission": "ADMIN",
           "createdAt": "2026-02-08T02:01:20Z",
-          "updatedAt": "2026-07-20T14:00:46Z",
-          "pushedAt": "2026-07-20T14:00:09Z",
-          "defaultBranchOid": "1c2b8b2a1516ed54d582e97f5919983db54af828",
+          "updatedAt": "2026-07-21T13:45:47Z",
+          "pushedAt": "2026-07-21T13:42:35Z",
+          "defaultBranchOid": "eb0a17ef2dd5ba43be7e9f0466c3c3e1e0fa4c22",
           "stars": 0,
           "forks": 0,
           "primaryLanguage": null,
@@ -10620,7 +10804,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1784641314937
+          "metadataFetchedAt": 1788131258350
         },
         {
           "id": "R_kgDORLYhzg",
@@ -10636,9 +10820,9 @@
           "visibility": "PUBLIC",
           "viewerPermission": "ADMIN",
           "createdAt": "2026-02-08T12:41:04Z",
-          "updatedAt": "2026-07-21T03:18:18Z",
-          "pushedAt": "2026-07-21T03:18:14Z",
-          "defaultBranchOid": "c460f66ca37ea2ef2244418104655147d8ce029c",
+          "updatedAt": "2026-08-30T04:43:19Z",
+          "pushedAt": "2026-08-30T04:43:15Z",
+          "defaultBranchOid": "57090eda4eb76bfef66f5632957d0e70d08840a6",
           "stars": 0,
           "forks": 0,
           "primaryLanguage": "TypeScript",
@@ -10674,7 +10858,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1784641314937
+          "metadataFetchedAt": 1788131258350
         },
         {
           "id": "R_kgDOM5m71Q",
@@ -10728,7 +10912,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1784641314937
+          "metadataFetchedAt": 1788131258350
         },
         {
           "id": "R_kgDOItNLCQ",
@@ -10744,11 +10928,11 @@
           "visibility": "PUBLIC",
           "viewerPermission": "READ",
           "createdAt": "2023-01-02T04:19:54Z",
-          "updatedAt": "2026-07-21T10:28:46Z",
+          "updatedAt": "2026-08-30T09:53:34Z",
           "pushedAt": "2026-05-28T14:33:12Z",
           "defaultBranchOid": "f189de79ceef7c1ef69f61f12e272f99b4cdb699",
-          "stars": 7126,
-          "forks": 661,
+          "stars": 7663,
+          "forks": 713,
           "primaryLanguage": "TypeScript",
           "topics": [
             "nextjs",
@@ -10816,14 +11000,14 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1784641314937
+          "metadataFetchedAt": 1788131258350
         }
       ]
     }
   },
   "repositories": {
     "R_kgDOHAOf3g": {
-      "fetchedAt": 1784641320748,
+      "fetchedAt": 1788131276985,
       "repository": {
         "id": "R_kgDOHAOf3g",
         "name": "21142",
@@ -10859,11 +11043,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784641314937
+        "metadataFetchedAt": 1788131258350
       }
     },
     "R_kgDONCEh7g": {
-      "fetchedAt": 1784641320748,
+      "fetchedAt": 1788131276985,
       "repository": {
         "id": "R_kgDONCEh7g",
         "name": "merxio",
@@ -10922,7 +11106,7 @@
       }
     },
     "R_kgDOHMHOEg": {
-      "fetchedAt": 1784641320748,
+      "fetchedAt": 1788131276985,
       "repository": {
         "id": "R_kgDOHMHOEg",
         "name": "packing-app-arch-example",
@@ -10969,7 +11153,7 @@
       }
     },
     "R_kgDOM4eBoQ": {
-      "fetchedAt": 1784641320748,
+      "fetchedAt": 1788131276985,
       "repository": {
         "id": "R_kgDOM4eBoQ",
         "name": "pay-with-erc20",
@@ -11028,7 +11212,7 @@
       }
     },
     "R_kgDOIYO1NQ": {
-      "fetchedAt": 1784641320748,
+      "fetchedAt": 1788131276985,
       "repository": {
         "id": "R_kgDOIYO1NQ",
         "name": "podopieczni",
@@ -11087,7 +11271,7 @@
       }
     },
     "R_kgDOG66Syw": {
-      "fetchedAt": 1784641320748,
+      "fetchedAt": 1788131276985,
       "repository": {
         "id": "R_kgDOG66Syw",
         "name": "spotify-nextjs",
@@ -11140,7 +11324,7 @@
       }
     },
     "R_kgDORLIYjA": {
-      "fetchedAt": 1784641320748,
+      "fetchedAt": 1788131276985,
       "repository": {
         "id": "R_kgDORLIYjA",
         "name": "stats",
@@ -11155,9 +11339,9 @@
         "visibility": "PUBLIC",
         "viewerPermission": "ADMIN",
         "createdAt": "2026-02-08T02:01:20Z",
-        "updatedAt": "2026-07-20T14:00:46Z",
-        "pushedAt": "2026-07-20T14:00:09Z",
-        "defaultBranchOid": "1c2b8b2a1516ed54d582e97f5919983db54af828",
+        "updatedAt": "2026-07-21T13:45:47Z",
+        "pushedAt": "2026-07-21T13:42:35Z",
+        "defaultBranchOid": "eb0a17ef2dd5ba43be7e9f0466c3c3e1e0fa4c22",
         "stars": 0,
         "forks": 0,
         "primaryLanguage": null,
@@ -11176,11 +11360,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784641314937
+        "metadataFetchedAt": 1788131258350
       }
     },
     "R_kgDORLYhzg": {
-      "fetchedAt": 1784641320748,
+      "fetchedAt": 1788131276985,
       "repository": {
         "id": "R_kgDORLYhzg",
         "name": "stats-remotion",
@@ -11195,9 +11379,9 @@
         "visibility": "PUBLIC",
         "viewerPermission": "ADMIN",
         "createdAt": "2026-02-08T12:41:04Z",
-        "updatedAt": "2026-07-21T03:18:18Z",
-        "pushedAt": "2026-07-21T03:18:14Z",
-        "defaultBranchOid": "c460f66ca37ea2ef2244418104655147d8ce029c",
+        "updatedAt": "2026-08-30T04:43:19Z",
+        "pushedAt": "2026-08-30T04:43:15Z",
+        "defaultBranchOid": "57090eda4eb76bfef66f5632957d0e70d08840a6",
         "stars": 0,
         "forks": 0,
         "primaryLanguage": "TypeScript",
@@ -11235,11 +11419,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784641314937
+        "metadataFetchedAt": 1788131258350
       }
     },
     "R_kgDOM5m71Q": {
-      "fetchedAt": 1784641320748,
+      "fetchedAt": 1788131276985,
       "repository": {
         "id": "R_kgDOM5m71Q",
         "name": "swapdapp",
@@ -11294,11 +11478,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784641314937
+        "metadataFetchedAt": 1788131258350
       }
     },
     "R_kgDOM_BwhA": {
-      "fetchedAt": 1784641320748,
+      "fetchedAt": 1788131276985,
       "repository": {
         "id": "R_kgDOM_BwhA",
         "name": "token-based-access",
@@ -11357,7 +11541,7 @@
       }
     },
     "R_kgDOJzK38g": {
-      "fetchedAt": 1784641320748,
+      "fetchedAt": 1788131276985,
       "repository": {
         "id": "R_kgDOJzK38g",
         "name": "twitopia",
@@ -11416,7 +11600,7 @@
       }
     },
     "R_kgDOJyNUfg": {
-      "fetchedAt": 1784641320748,
+      "fetchedAt": 1788131276985,
       "repository": {
         "id": "R_kgDOJyNUfg",
         "name": "upvibe",
@@ -11475,7 +11659,7 @@
       }
     },
     "R_kgDOM3Q5ag": {
-      "fetchedAt": 1784641320748,
+      "fetchedAt": 1788131276985,
       "repository": {
         "id": "R_kgDOM3Q5ag",
         "name": "web3authenticator",
@@ -11534,7 +11718,7 @@
       }
     },
     "R_kgDOGP6O5Q": {
-      "fetchedAt": 1784641320748,
+      "fetchedAt": 1788131276985,
       "repository": {
         "id": "R_kgDOGP6O5Q",
         "name": "core",
@@ -11549,10 +11733,10 @@
         "visibility": "PUBLIC",
         "viewerPermission": "READ",
         "createdAt": "2021-10-20T13:12:41Z",
-        "updatedAt": "2026-06-13T16:39:20Z",
+        "updatedAt": "2026-08-06T18:15:04Z",
         "pushedAt": "2026-04-27T09:10:17Z",
         "defaultBranchOid": "2aa33936eef0254f7098f4111de088d2c002040d",
-        "stars": 114,
+        "stars": 113,
         "forks": 12,
         "primaryLanguage": "TypeScript",
         "topics": [],
@@ -11594,11 +11778,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784641314103
+        "metadataFetchedAt": 1788131257365
       }
     },
     "R_kgDOItNLCQ": {
-      "fetchedAt": 1784641320748,
+      "fetchedAt": 1788131276985,
       "repository": {
         "id": "R_kgDOItNLCQ",
         "name": "next-forge",
@@ -11613,11 +11797,11 @@
         "visibility": "PUBLIC",
         "viewerPermission": "READ",
         "createdAt": "2023-01-02T04:19:54Z",
-        "updatedAt": "2026-07-21T10:28:46Z",
+        "updatedAt": "2026-08-30T09:53:34Z",
         "pushedAt": "2026-05-28T14:33:12Z",
         "defaultBranchOid": "f189de79ceef7c1ef69f61f12e272f99b4cdb699",
-        "stars": 7126,
-        "forks": 661,
+        "stars": 7663,
+        "forks": 713,
         "primaryLanguage": "TypeScript",
         "topics": [
           "nextjs",
@@ -11687,7 +11871,7 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784641314937
+        "metadataFetchedAt": 1788131258350
       }
     }
   },
@@ -11765,12 +11949,13 @@
       "status": "fresh"
     },
     "R_kgDORLYhzg": {
-      "additions": 24111,
-      "deletions": 142,
-      "commits": 169,
-      "fetchedAt": 1784641324939,
-      "defaultBranchOid": "c460f66ca37ea2ef2244418104655147d8ce029c",
-      "status": "fresh"
+      "additions": 0,
+      "deletions": 0,
+      "commits": 0,
+      "fetchedAt": 1788131293230,
+      "defaultBranchOid": "57090eda4eb76bfef66f5632957d0e70d08840a6",
+      "status": "pending",
+      "error": "GitHub still computing contributor stats (202)"
     },
     "R_kgDONCEh7g": {
       "additions": 19897,
@@ -11781,11 +11966,11 @@
       "status": "fresh"
     },
     "R_kgDORLIYjA": {
-      "additions": 70053,
-      "deletions": 27290,
-      "commits": 163,
-      "fetchedAt": 1784641322697,
-      "defaultBranchOid": "1c2b8b2a1516ed54d582e97f5919983db54af828",
+      "additions": 70282,
+      "deletions": 27493,
+      "commits": 164,
+      "fetchedAt": 1788131278783,
+      "defaultBranchOid": "eb0a17ef2dd5ba43be7e9f0466c3c3e1e0fa4c22",
       "status": "fresh"
     },
     "R_kgDOGP6O5Q": {
@@ -11813,7 +11998,1022 @@
       "status": "fresh"
     }
   },
-  "traffic": {},
+  "traffic": {
+    "R_kgDOHMHOEg": {
+      "count": 0,
+      "uniques": 0,
+      "days": [
+        {
+          "timestamp": "2026-08-09T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-10T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-11T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-12T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-13T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-14T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ],
+      "fetchedAt": 1788131277175,
+      "status": "fresh"
+    },
+    "R_kgDOHAOf3g": {
+      "count": 1,
+      "uniques": 1,
+      "days": [
+        {
+          "timestamp": "2026-08-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-25T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-08-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-29T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ],
+      "fetchedAt": 1788131277200,
+      "status": "fresh"
+    },
+    "R_kgDOIYO1NQ": {
+      "count": 0,
+      "uniques": 0,
+      "days": [
+        {
+          "timestamp": "2026-08-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-29T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ],
+      "fetchedAt": 1788131277368,
+      "status": "fresh"
+    },
+    "R_kgDOJyNUfg": {
+      "count": 0,
+      "uniques": 0,
+      "days": [
+        {
+          "timestamp": "2026-08-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-29T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ],
+      "fetchedAt": 1788131277388,
+      "status": "fresh"
+    },
+    "R_kgDOM_BwhA": {
+      "count": 0,
+      "uniques": 0,
+      "days": [
+        {
+          "timestamp": "2026-08-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-29T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ],
+      "fetchedAt": 1788131277603,
+      "status": "fresh"
+    },
+    "R_kgDOJzK38g": {
+      "count": 0,
+      "uniques": 0,
+      "days": [
+        {
+          "timestamp": "2026-08-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-29T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ],
+      "fetchedAt": 1788131277626,
+      "status": "fresh"
+    },
+    "R_kgDOM4eBoQ": {
+      "count": 0,
+      "uniques": 0,
+      "days": [
+        {
+          "timestamp": "2026-08-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-29T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ],
+      "fetchedAt": 1788131277836,
+      "status": "fresh"
+    },
+    "R_kgDOM3Q5ag": {
+      "count": 0,
+      "uniques": 0,
+      "days": [
+        {
+          "timestamp": "2026-08-11T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-12T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-13T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-14T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ],
+      "fetchedAt": 1788131278001,
+      "status": "fresh"
+    },
+    "R_kgDOM5m71Q": {
+      "count": 0,
+      "uniques": 0,
+      "days": [
+        {
+          "timestamp": "2026-08-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-29T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ],
+      "fetchedAt": 1788131278027,
+      "status": "fresh"
+    },
+    "R_kgDONCEh7g": {
+      "count": 0,
+      "uniques": 0,
+      "days": [
+        {
+          "timestamp": "2026-08-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-29T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ],
+      "fetchedAt": 1788131278180,
+      "status": "fresh"
+    },
+    "R_kgDORLIYjA": {
+      "count": 0,
+      "uniques": 0,
+      "days": [
+        {
+          "timestamp": "2026-08-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-29T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ],
+      "fetchedAt": 1788131278213,
+      "status": "fresh"
+    },
+    "R_kgDORLYhzg": {
+      "count": 0,
+      "uniques": 0,
+      "days": [
+        {
+          "timestamp": "2026-08-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-29T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ],
+      "fetchedAt": 1788131278380,
+      "status": "fresh"
+    },
+    "R_kgDOG66Syw": {
+      "count": 0,
+      "uniques": 0,
+      "days": [
+        {
+          "timestamp": "2026-08-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-29T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ],
+      "fetchedAt": 1788131278391,
+      "status": "fresh"
+    }
+  },
   "backfill": {
     "pending": [],
     "completed": {
@@ -11935,87 +13135,23 @@
       "contributors:R_kgDORLIYjA:e055878b5f53eb6d9d898729d0add3937e8344fa": 1784555976318,
       "contributors:R_kgDORLYhzg:29adddb17badeb8200cdf766d26c34b58cb3397a": 1784555983150,
       "contributors:R_kgDORLIYjA:1c2b8b2a1516ed54d582e97f5919983db54af828": 1784641322697,
-      "contributors:R_kgDORLYhzg:c460f66ca37ea2ef2244418104655147d8ce029c": 1784641324939
+      "contributors:R_kgDORLYhzg:c460f66ca37ea2ef2244418104655147d8ce029c": 1784641324939,
+      "traffic:R_kgDOHMHOEg": 1788131277175,
+      "traffic:R_kgDOHAOf3g": 1788131277200,
+      "traffic:R_kgDOIYO1NQ": 1788131277368,
+      "traffic:R_kgDOJyNUfg": 1788131277388,
+      "traffic:R_kgDOM_BwhA": 1788131277603,
+      "traffic:R_kgDOJzK38g": 1788131277626,
+      "traffic:R_kgDOM4eBoQ": 1788131277836,
+      "traffic:R_kgDOM3Q5ag": 1788131278001,
+      "traffic:R_kgDOM5m71Q": 1788131278027,
+      "traffic:R_kgDONCEh7g": 1788131278180,
+      "traffic:R_kgDORLIYjA": 1788131278213,
+      "traffic:R_kgDORLYhzg": 1788131278380,
+      "traffic:R_kgDOG66Syw": 1788131278391,
+      "contributors:R_kgDORLIYjA:eb0a17ef2dd5ba43be7e9f0466c3c3e1e0fa4c22": 1788131278783,
+      "contributors:R_kgDORLYhzg:57090eda4eb76bfef66f5632957d0e70d08840a6": 1788131293230
     },
-    "failures": {
-      "traffic:R_kgDOHMHOEg": {
-        "key": "traffic:R_kgDOHMHOEg",
-        "failedAt": 1784641328947,
-        "attempts": 53,
-        "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
-      },
-      "traffic:R_kgDOIYO1NQ": {
-        "key": "traffic:R_kgDOIYO1NQ",
-        "failedAt": 1784641331253,
-        "attempts": 53,
-        "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
-      },
-      "traffic:R_kgDOHAOf3g": {
-        "key": "traffic:R_kgDOHAOf3g",
-        "failedAt": 1784641328836,
-        "attempts": 53,
-        "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
-      },
-      "traffic:R_kgDOJyNUfg": {
-        "key": "traffic:R_kgDOJyNUfg",
-        "failedAt": 1784641333258,
-        "attempts": 53,
-        "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
-      },
-      "traffic:R_kgDOJzK38g": {
-        "key": "traffic:R_kgDOJzK38g",
-        "failedAt": 1784641336915,
-        "attempts": 53,
-        "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
-      },
-      "traffic:R_kgDOM_BwhA": {
-        "key": "traffic:R_kgDOM_BwhA",
-        "failedAt": 1784641337246,
-        "attempts": 53,
-        "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
-      },
-      "traffic:R_kgDOM4eBoQ": {
-        "key": "traffic:R_kgDOM4eBoQ",
-        "failedAt": 1784641341532,
-        "attempts": 53,
-        "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
-      },
-      "traffic:R_kgDOM3Q5ag": {
-        "key": "traffic:R_kgDOM3Q5ag",
-        "failedAt": 1784641339579,
-        "attempts": 53,
-        "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
-      },
-      "traffic:R_kgDOM5m71Q": {
-        "key": "traffic:R_kgDOM5m71Q",
-        "failedAt": 1784641345163,
-        "attempts": 53,
-        "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
-      },
-      "traffic:R_kgDONCEh7g": {
-        "key": "traffic:R_kgDONCEh7g",
-        "failedAt": 1784641345570,
-        "attempts": 53,
-        "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
-      },
-      "traffic:R_kgDORLIYjA": {
-        "key": "traffic:R_kgDORLIYjA",
-        "failedAt": 1784641347596,
-        "attempts": 53,
-        "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
-      },
-      "traffic:R_kgDORLYhzg": {
-        "key": "traffic:R_kgDORLYhzg",
-        "failedAt": 1784641349837,
-        "attempts": 53,
-        "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
-      },
-      "traffic:R_kgDOG66Syw": {
-        "key": "traffic:R_kgDOG66Syw",
-        "failedAt": 1784641353098,
-        "attempts": 53,
-        "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
-      }
-    }
+    "failures": {}
   }
 }
