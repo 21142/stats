@@ -10,11 +10,11 @@
   "websiteUrl": "maciejgalinski.mg-digitalsolutions.com",
   "createdAt": "2021-03-11T09:53:47Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 724293,
-  "linesAdded": 486015,
-  "linesDeleted": 238278,
-  "commitCount": 854,
-  "totalCommits": 1548,
+  "linesOfCodeChanged": 724908,
+  "linesAdded": 486363,
+  "linesDeleted": 238545,
+  "commitCount": 856,
+  "totalCommits": 1550,
   "totalPullRequests": 286,
   "totalPullRequestReviews": 3,
   "codeByteTotal": 4735338,
@@ -76,14 +76,14 @@
   "repositoriesContributedTo": 4,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 2256,
+  "totalContributions": 2258,
   "contributionStats": {
-    "longestStreak": 221,
-    "currentStreak": 221,
+    "longestStreak": 222,
+    "currentStreak": 222,
     "mostActiveDay": "Thursday",
     "averagePerDay": 1.12,
     "averagePerWeek": 7.82,
-    "averagePerMonth": 33.5,
+    "averagePerMonth": 33.52,
     "monthlyBreakdown": [
       {
         "month": "2021-03",
@@ -351,7 +351,7 @@
       },
       {
         "month": "2026-09",
-        "contributions": 46
+        "contributions": 48
       }
     ],
     "yearlyBreakdown": [
@@ -377,7 +377,7 @@
       },
       {
         "year": "2026",
-        "contributions": 721
+        "contributions": 723
       }
     ],
     "peakDay": {
@@ -386,28 +386,28 @@
     }
   },
   "repoStats": {
-    "totalRepos": 72,
+    "totalRepos": 34,
     "publicRepos": 15,
-    "privateRepos": 57,
+    "privateRepos": 19,
     "archivedRepos": 1,
     "forkedRepos": 1,
-    "originalRepos": 71,
-    "activeRepos": 67,
+    "originalRepos": 33,
+    "activeRepos": 29,
     "reposWithStars": 3,
-    "reposCreatedThisYear": 39,
-    "averageStarsPerRepo": 108.1
+    "reposCreatedThisYear": 2,
+    "averageStarsPerRepo": 228.91
   },
   "computedStats": {
-    "totalRepos": 72,
+    "totalRepos": 34,
     "publicRepos": 15,
-    "privateRepos": 57,
+    "privateRepos": 19,
     "archivedRepos": 1,
     "forkedRepos": 1,
-    "originalRepos": 71,
-    "activeRepos": 67,
+    "originalRepos": 33,
+    "activeRepos": 29,
     "reposWithStars": 3,
-    "reposCreatedThisYear": 39,
-    "averageStarsPerRepo": 108.1,
+    "reposCreatedThisYear": 2,
+    "averageStarsPerRepo": 228.91,
     "languageCount": 8,
     "primaryLanguage": "TypeScript",
     "primaryLanguageThisYear": "TypeScript",
@@ -535,23 +535,23 @@
       "tailwindcss",
       "typescript"
     ],
-    "contributionsThisYear": 721,
+    "contributionsThisYear": 723,
     "contributionsLastYear": 308,
-    "yearOverYearGrowth": 134.09,
+    "yearOverYearGrowth": 134.74,
     "mostProductiveMonth": {
       "month": "2023-10",
       "contributions": 171
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 1548,
+    "totalCommitContributions": 1550,
     "restrictedContributionsCount": 385,
     "totalIssueContributions": 42,
     "totalRepositoryContributions": 64,
     "totalPullRequestContributions": 211,
     "totalPullRequestReviewContributions": 3,
     "contributionCalendar": {
-      "totalContributions": 2256,
+      "totalContributions": 2258,
       "weeks": [
         {
           "contributionDays": [
@@ -9800,8 +9800,12 @@
               "date": "2026-09-15"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 2,
               "date": "2026-09-16"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-09-17"
             }
           ]
         }
@@ -9904,7 +9908,7 @@
       "isPrivate": false,
       "primaryLanguage": null,
       "topics": [],
-      "updatedAt": "2026-09-15T16:12:25Z",
+      "updatedAt": "2026-09-16T16:05:19Z",
       "createdAt": "2026-02-08T02:01:20Z"
     },
     {
@@ -9918,7 +9922,7 @@
       "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "topics": [],
-      "updatedAt": "2026-09-16T04:11:28Z",
+      "updatedAt": "2026-09-17T04:18:38Z",
       "createdAt": "2026-02-08T12:41:04Z"
     },
     {
@@ -9952,9 +9956,9 @@
   ],
   "closedIssues": 41,
   "openIssues": 1,
-  "fetchedAt": 1789574712976,
+  "fetchedAt": 1789661556808,
   "schemaVersion": 2,
-  "generatedAt": "2026-09-16T16:05:12.976Z",
+  "generatedAt": "2026-09-17T16:12:36.808Z",
   "profile": {
     "name": "macG",
     "login": "21142",
@@ -9970,15 +9974,15 @@
     "following": 3
   },
   "profileContributions": {
-    "totalContributions": 2256,
-    "totalCommitContributions": 1548,
+    "totalContributions": 2258,
+    "totalCommitContributions": 1550,
     "restrictedContributionsCount": 385,
     "totalIssueContributions": 42,
     "totalRepositoryContributions": 64,
     "totalPullRequestContributions": 211,
     "totalPullRequestReviewContributions": 3,
     "contributionCalendar": {
-      "totalContributions": 2256,
+      "totalContributions": 2258,
       "weeks": [
         {
           "contributionDays": [
@@ -19227,20 +19231,24 @@
               "date": "2026-09-15"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 2,
               "date": "2026-09-16"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-09-17"
             }
           ]
         }
       ]
     },
     "stats": {
-      "longestStreak": 221,
-      "currentStreak": 221,
+      "longestStreak": 222,
+      "currentStreak": 222,
       "mostActiveDay": "Thursday",
       "averagePerDay": 1.12,
       "averagePerWeek": 7.82,
-      "averagePerMonth": 33.5,
+      "averagePerMonth": 33.52,
       "monthlyBreakdown": [
         {
           "month": "2021-03",
@@ -19508,7 +19516,7 @@
         },
         {
           "month": "2026-09",
-          "contributions": 46
+          "contributions": 48
         }
       ],
       "yearlyBreakdown": [
@@ -19534,7 +19542,7 @@
         },
         {
           "year": "2026",
-          "contributions": 721
+          "contributions": 723
         }
       ],
       "peakDay": {
@@ -19548,7 +19556,7 @@
         "nameWithOwner": "21142/21142",
         "owner": "21142",
         "counts": {
-          "commits": 20,
+          "commits": 16,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -19616,35 +19624,11 @@
         }
       },
       {
-        "repositoryId": "R_kgDORLIYjA",
-        "nameWithOwner": "21142/stats",
-        "owner": "21142",
-        "counts": {
-          "commits": 181,
-          "issues": 0,
-          "pullRequests": 0,
-          "pullRequestReviews": 0,
-          "repositoryCreations": 1
-        }
-      },
-      {
-        "repositoryId": "R_kgDORLYhzg",
-        "nameWithOwner": "21142/stats-remotion",
-        "owner": "21142",
-        "counts": {
-          "commits": 226,
-          "issues": 0,
-          "pullRequests": 0,
-          "pullRequestReviews": 0,
-          "repositoryCreations": 1
-        }
-      },
-      {
         "repositoryId": "R_kgDOM5m71Q",
         "nameWithOwner": "21142/swapdapp",
         "owner": "21142",
         "counts": {
-          "commits": 18,
+          "commits": 17,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -19710,18 +19694,6 @@
           "pullRequestReviews": 2,
           "repositoryCreations": 0
         }
-      },
-      {
-        "repositoryId": "R_kgDOItNLCQ",
-        "nameWithOwner": "vercel/next-forge",
-        "owner": "vercel",
-        "counts": {
-          "commits": 0,
-          "issues": 1,
-          "pullRequests": 0,
-          "pullRequestReviews": 0,
-          "repositoryCreations": 0
-        }
       }
     ],
     "completeness": {
@@ -19778,13 +19750,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 6,
+        "commits": 2,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1789574680677
+      "metadataFetchedAt": 1789661513956
     },
     {
       "id": "R_kgDONCEh7g",
@@ -20062,9 +20034,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2026-02-08T02:01:20Z",
-      "updatedAt": "2026-09-15T16:12:25Z",
-      "pushedAt": "2026-09-15T16:12:20Z",
-      "defaultBranchOid": "419044743864aceb3a2ad69316aafd773f07d806",
+      "updatedAt": "2026-09-16T16:05:19Z",
+      "pushedAt": "2026-09-16T16:05:15Z",
+      "defaultBranchOid": "8d69aaa1dfb24403245f0ec14fca2bc1a0fc0034",
       "stars": 0,
       "forks": 0,
       "primaryLanguage": null,
@@ -20077,13 +20049,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 181,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1789574680677
+      "metadataFetchedAt": 1789661539146
     },
     {
       "id": "R_kgDORLYhzg",
@@ -20099,9 +20071,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2026-02-08T12:41:04Z",
-      "updatedAt": "2026-09-16T04:11:28Z",
-      "pushedAt": "2026-09-16T04:11:24Z",
-      "defaultBranchOid": "367871105f7adf8ef8500d6740d92ff1f362d827",
+      "updatedAt": "2026-09-17T04:18:38Z",
+      "pushedAt": "2026-09-17T04:18:33Z",
+      "defaultBranchOid": "69b6e7a3dce0034c2be20046189ee396f7c2764b",
       "stars": 0,
       "forks": 0,
       "primaryLanguage": "TypeScript",
@@ -20133,13 +20105,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 226,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1789574680677
+      "metadataFetchedAt": 1789661539146
     },
     {
       "id": "R_kgDOM5m71Q",
@@ -20189,13 +20161,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 1,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1789574680677
+      "metadataFetchedAt": 1780066674252
     },
     {
       "id": "R_kgDOM_BwhA",
@@ -20480,7 +20452,7 @@
         "pullRequestReviews": 2,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1789574679555
+      "metadataFetchedAt": 1789661513956
     },
     {
       "id": "R_kgDOItNLCQ",
@@ -20565,7 +20537,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -20690,10 +20662,10 @@
       }
     ],
     "contributorStats": {
-      "totalCommits": 854,
-      "linesAdded": 486015,
-      "linesDeleted": 238278,
-      "linesOfCodeChanged": 724293,
+      "totalCommits": 856,
+      "linesAdded": 486363,
+      "linesDeleted": 238545,
+      "linesOfCodeChanged": 724908,
       "reposCompleted": 15,
       "reposPending": 0,
       "reposFailed": 0
@@ -20706,28 +20678,28 @@
       "reposFailed": 0
     },
     "repoStats": {
-      "totalRepos": 72,
+      "totalRepos": 34,
       "publicRepos": 15,
-      "privateRepos": 57,
+      "privateRepos": 19,
       "archivedRepos": 1,
       "forkedRepos": 1,
-      "originalRepos": 71,
-      "activeRepos": 67,
+      "originalRepos": 33,
+      "activeRepos": 29,
       "reposWithStars": 3,
-      "reposCreatedThisYear": 39,
-      "averageStarsPerRepo": 108.1
+      "reposCreatedThisYear": 2,
+      "averageStarsPerRepo": 228.91
     },
     "computedStats": {
-      "totalRepos": 72,
+      "totalRepos": 34,
       "publicRepos": 15,
-      "privateRepos": 57,
+      "privateRepos": 19,
       "archivedRepos": 1,
       "forkedRepos": 1,
-      "originalRepos": 71,
-      "activeRepos": 67,
+      "originalRepos": 33,
+      "activeRepos": 29,
       "reposWithStars": 3,
-      "reposCreatedThisYear": 39,
-      "averageStarsPerRepo": 108.1,
+      "reposCreatedThisYear": 2,
+      "averageStarsPerRepo": 228.91,
       "languageCount": 8,
       "primaryLanguage": "TypeScript",
       "primaryLanguageThisYear": "TypeScript",
@@ -20855,9 +20827,9 @@
         "tailwindcss",
         "typescript"
       ],
-      "contributionsThisYear": 721,
+      "contributionsThisYear": 723,
       "contributionsLastYear": 308,
-      "yearOverYearGrowth": 134.09,
+      "yearOverYearGrowth": 134.74,
       "mostProductiveMonth": {
         "month": "2023-10",
         "contributions": 171
@@ -20868,9 +20840,9 @@
     "readmeSummary": {
       "name": "macG",
       "username": "21142",
-      "totalContributions": 2256,
-      "currentStreak": 221,
-      "longestStreak": 221,
+      "totalContributions": 2258,
+      "currentStreak": 222,
+      "longestStreak": 222,
       "topLanguages": [
         {
           "languageName": "TypeScript",
@@ -20905,8 +20877,8 @@
       ],
       "starsReceived": 1,
       "forksReceived": 0,
-      "activeRepos": 67,
-      "refreshedAt": "2026-09-16T16:05:12.976Z",
+      "activeRepos": 29,
+      "refreshedAt": "2026-09-17T16:12:36.808Z",
       "complete": true
     },
     "cards": [
@@ -20918,7 +20890,7 @@
       {
         "id": "current-streak",
         "label": "Current streak",
-        "value": "221 days"
+        "value": "222 days"
       },
       {
         "id": "languages",
@@ -20960,7 +20932,7 @@
       },
       {
         "period": "2026",
-        "contributions": 721
+        "contributions": 723
       }
     ],
     "highlights": [
@@ -20995,13 +20967,13 @@
           "id": "contributions",
           "title": "Contribution history",
           "metric": "2.3K",
-          "supportingText": "221 day longest streak"
+          "supportingText": "222 day longest streak"
         },
         {
           "id": "repositories",
           "title": "Repository footprint",
-          "metric": 72,
-          "supportingText": "67 active this year"
+          "metric": 34,
+          "supportingText": "29 active this year"
         },
         {
           "id": "languages",
@@ -21015,14 +20987,14 @@
   "privacy": {
     "privateRepositoryDetailsIncluded": false,
     "privateCacheDetailsIncluded": false,
-    "redactedPrivateRepositories": 57,
-    "redactedRepositoryContributions": 57,
+    "redactedPrivateRepositories": 19,
+    "redactedRepositoryContributions": 19,
     "redactedOptionalMetrics": 0
   },
   "collectionStatus": {
-    "startedAt": 1789574678158,
-    "finishedAt": 1789574712976,
-    "durationMs": 34818,
+    "startedAt": 1789661512411,
+    "finishedAt": 1789661556808,
+    "durationMs": 44397,
     "coreComplete": true,
     "complete": true,
     "cache": {
@@ -21030,8 +21002,8 @@
       "volatilePath": ".github-profile-stats/volatile-cache.json",
       "contributionYearsFromCache": 4,
       "contributionYearsFetched": 2,
-      "repositoriesFromCache": 14,
-      "repositoriesFetched": 68
+      "repositoriesFromCache": 12,
+      "repositoriesFetched": 70
     },
     "backfill": {
       "enabled": true,
@@ -21043,20 +21015,20 @@
     "rateLimit": {
       "graphql": {
         "limit": 5000,
-        "remaining": 4987,
-        "used": 13,
-        "resetAt": "2026-09-16T16:37:38Z"
+        "remaining": 4965,
+        "used": 35,
+        "resetAt": "2026-09-17T16:42:24Z"
       },
       "rest": {
         "limit": 5000,
-        "remaining": 4991,
-        "used": 9,
-        "resetAt": "2026-09-16T16:41:33.000Z"
+        "remaining": 4995,
+        "used": 5,
+        "resetAt": "2026-09-17T17:12:33.000Z"
       }
     },
     "warnings": [
-      "Private repository details redacted: 57 repositories",
-      "Private repository contribution details redacted: 57 repositories"
+      "Private repository details redacted: 19 repositories",
+      "Private repository contribution details redacted: 19 repositories"
     ],
     "errors": []
   },
@@ -21072,11 +21044,11 @@
     "websiteUrl": "maciejgalinski.mg-digitalsolutions.com",
     "createdAt": "2021-03-11T09:53:47Z",
     "repoViews": 0,
-    "linesOfCodeChanged": 724293,
-    "linesAdded": 486015,
-    "linesDeleted": 238278,
-    "commitCount": 854,
-    "totalCommits": 1548,
+    "linesOfCodeChanged": 724908,
+    "linesAdded": 486363,
+    "linesDeleted": 238545,
+    "commitCount": 856,
+    "totalCommits": 1550,
     "totalPullRequests": 286,
     "totalPullRequestReviews": 3,
     "codeByteTotal": 4735338,
@@ -21138,14 +21110,14 @@
     "repositoriesContributedTo": 4,
     "discussionsStarted": 0,
     "discussionsAnswered": 0,
-    "totalContributions": 2256,
+    "totalContributions": 2258,
     "contributionStats": {
-      "longestStreak": 221,
-      "currentStreak": 221,
+      "longestStreak": 222,
+      "currentStreak": 222,
       "mostActiveDay": "Thursday",
       "averagePerDay": 1.12,
       "averagePerWeek": 7.82,
-      "averagePerMonth": 33.5,
+      "averagePerMonth": 33.52,
       "monthlyBreakdown": [
         {
           "month": "2021-03",
@@ -21413,7 +21385,7 @@
         },
         {
           "month": "2026-09",
-          "contributions": 46
+          "contributions": 48
         }
       ],
       "yearlyBreakdown": [
@@ -21439,7 +21411,7 @@
         },
         {
           "year": "2026",
-          "contributions": 721
+          "contributions": 723
         }
       ],
       "peakDay": {
@@ -21448,28 +21420,28 @@
       }
     },
     "repoStats": {
-      "totalRepos": 72,
+      "totalRepos": 34,
       "publicRepos": 15,
-      "privateRepos": 57,
+      "privateRepos": 19,
       "archivedRepos": 1,
       "forkedRepos": 1,
-      "originalRepos": 71,
-      "activeRepos": 67,
+      "originalRepos": 33,
+      "activeRepos": 29,
       "reposWithStars": 3,
-      "reposCreatedThisYear": 39,
-      "averageStarsPerRepo": 108.1
+      "reposCreatedThisYear": 2,
+      "averageStarsPerRepo": 228.91
     },
     "computedStats": {
-      "totalRepos": 72,
+      "totalRepos": 34,
       "publicRepos": 15,
-      "privateRepos": 57,
+      "privateRepos": 19,
       "archivedRepos": 1,
       "forkedRepos": 1,
-      "originalRepos": 71,
-      "activeRepos": 67,
+      "originalRepos": 33,
+      "activeRepos": 29,
       "reposWithStars": 3,
-      "reposCreatedThisYear": 39,
-      "averageStarsPerRepo": 108.1,
+      "reposCreatedThisYear": 2,
+      "averageStarsPerRepo": 228.91,
       "languageCount": 8,
       "primaryLanguage": "TypeScript",
       "primaryLanguageThisYear": "TypeScript",
@@ -21597,23 +21569,23 @@
         "tailwindcss",
         "typescript"
       ],
-      "contributionsThisYear": 721,
+      "contributionsThisYear": 723,
       "contributionsLastYear": 308,
-      "yearOverYearGrowth": 134.09,
+      "yearOverYearGrowth": 134.74,
       "mostProductiveMonth": {
         "month": "2023-10",
         "contributions": 171
       }
     },
     "contributionsCollection": {
-      "totalCommitContributions": 1548,
+      "totalCommitContributions": 1550,
       "restrictedContributionsCount": 385,
       "totalIssueContributions": 42,
       "totalRepositoryContributions": 64,
       "totalPullRequestContributions": 211,
       "totalPullRequestReviewContributions": 3,
       "contributionCalendar": {
-        "totalContributions": 2256,
+        "totalContributions": 2258,
         "weeks": [
           {
             "contributionDays": [
@@ -30862,8 +30834,12 @@
                 "date": "2026-09-15"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 2,
                 "date": "2026-09-16"
+              },
+              {
+                "contributionCount": 1,
+                "date": "2026-09-17"
               }
             ]
           }
@@ -30966,7 +30942,7 @@
         "isPrivate": false,
         "primaryLanguage": null,
         "topics": [],
-        "updatedAt": "2026-09-15T16:12:25Z",
+        "updatedAt": "2026-09-16T16:05:19Z",
         "createdAt": "2026-02-08T02:01:20Z"
       },
       {
@@ -30980,7 +30956,7 @@
         "isPrivate": false,
         "primaryLanguage": "TypeScript",
         "topics": [],
-        "updatedAt": "2026-09-16T04:11:28Z",
+        "updatedAt": "2026-09-17T04:18:38Z",
         "createdAt": "2026-02-08T12:41:04Z"
       },
       {
@@ -31014,6 +30990,6 @@
     ],
     "closedIssues": 41,
     "openIssues": 1,
-    "fetchedAt": 1789574712976
+    "fetchedAt": 1789661556808
   }
 }
