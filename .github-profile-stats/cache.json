@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1795203346231,
+  "updatedAt": 1795286417822,
   "contributionYears": {
     "2021": {
       "year": "2021",
@@ -7727,7 +7727,7 @@
       "year": "2025",
       "from": "2025-01-01T00:00:00.000Z",
       "to": "2026-01-01T00:00:00.000Z",
-      "fetchedAt": 1795203314390,
+      "fetchedAt": 1795286393417,
       "immutable": false,
       "data": {
         "totalCommitContributions": 242,
@@ -9478,7 +9478,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1795203314390
+          "metadataFetchedAt": 1795286393417
         },
         {
           "id": "R_kgDOGP6O5Q",
@@ -9538,25 +9538,25 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1795203314390
+          "metadataFetchedAt": 1795286393417
         }
       ]
     },
     "2026": {
       "year": "2026",
       "from": "2026-01-01T00:00:00.000Z",
-      "to": "2026-11-20T19:35:13.864Z",
-      "fetchedAt": 1795203315481,
+      "to": "2026-11-21T18:39:52.852Z",
+      "fetchedAt": 1795286394441,
       "immutable": false,
       "data": {
-        "totalCommitContributions": 847,
+        "totalCommitContributions": 849,
         "restrictedContributionsCount": 0,
         "totalIssueContributions": 1,
         "totalRepositoryContributions": 41,
         "totalPullRequestContributions": 2,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-          "totalContributions": 892,
+          "totalContributions": 894,
           "weeks": [
             {
               "contributionDays": [
@@ -11037,8 +11037,12 @@
                   "date": "2026-11-19"
                 },
                 {
-                  "contributionCount": 10,
+                  "contributionCount": 11,
                   "date": "2026-11-20"
+                },
+                {
+                  "contributionCount": 1,
+                  "date": "2026-11-21"
                 }
               ]
             }
@@ -11063,7 +11067,7 @@
           "nameWithOwner": "21142/stats",
           "owner": "21142",
           "counts": {
-            "commits": 246,
+            "commits": 247,
             "issues": 0,
             "pullRequests": 0,
             "pullRequestReviews": 0,
@@ -11075,7 +11079,7 @@
           "nameWithOwner": "21142/stats-remotion",
           "owner": "21142",
           "counts": {
-            "commits": 291,
+            "commits": 292,
             "issues": 0,
             "pullRequests": 0,
             "pullRequestReviews": 0,
@@ -11141,7 +11145,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1795203315481
+          "metadataFetchedAt": 1795286394441
         },
         {
           "id": "R_kgDORLIYjA",
@@ -11158,8 +11162,8 @@
           "viewerPermission": "ADMIN",
           "createdAt": "2026-02-08T02:01:20Z",
           "updatedAt": "2026-11-11T19:13:59Z",
-          "pushedAt": "2026-11-19T19:55:54Z",
-          "defaultBranchOid": "4f43609686008efed8ced65617b21748f95da827",
+          "pushedAt": "2026-11-20T19:35:47Z",
+          "defaultBranchOid": "602f11b071ab00f32ffc435d9932aa90f639c020",
           "stars": 0,
           "forks": 0,
           "primaryLanguage": null,
@@ -11176,7 +11180,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1795203315481
+          "metadataFetchedAt": 1795286394441
         },
         {
           "id": "R_kgDORLYhzg",
@@ -11193,8 +11197,8 @@
           "viewerPermission": "ADMIN",
           "createdAt": "2026-02-08T12:41:04Z",
           "updatedAt": "2026-11-12T07:36:57Z",
-          "pushedAt": "2026-11-20T06:34:40Z",
-          "defaultBranchOid": "8c0e25536ab1c42589cda5c90790cabf3880cdb6",
+          "pushedAt": "2026-11-21T06:26:26Z",
+          "defaultBranchOid": "e55170a066384622b441c12b69bd76960d02487e",
           "stars": 0,
           "forks": 0,
           "primaryLanguage": "TypeScript",
@@ -11230,7 +11234,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1795203315481
+          "metadataFetchedAt": 1795286394441
         },
         {
           "id": "R_kgDOM5m71Q",
@@ -11284,7 +11288,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1795203315481
+          "metadataFetchedAt": 1795286394441
         },
         {
           "id": "R_kgDOItNLCQ",
@@ -11300,11 +11304,11 @@
           "visibility": "PUBLIC",
           "viewerPermission": "READ",
           "createdAt": "2023-01-02T04:19:54Z",
-          "updatedAt": "2026-11-20T17:33:00Z",
+          "updatedAt": "2026-11-21T08:56:43Z",
           "pushedAt": "2026-05-28T14:33:12Z",
           "defaultBranchOid": "f189de79ceef7c1ef69f61f12e272f99b4cdb699",
           "stars": 7792,
-          "forks": 742,
+          "forks": 741,
           "primaryLanguage": "TypeScript",
           "topics": [
             "nextjs",
@@ -11372,14 +11376,14 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1795203315481
+          "metadataFetchedAt": 1795286394441
         }
       ]
     }
   },
   "repositories": {
     "R_kgDOHAOf3g": {
-      "fetchedAt": 1795203342021,
+      "fetchedAt": 1795286415757,
       "repository": {
         "id": "R_kgDOHAOf3g",
         "name": "21142",
@@ -11415,11 +11419,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1795203315481
+        "metadataFetchedAt": 1795286394441
       }
     },
     "R_kgDONCEh7g": {
-      "fetchedAt": 1795203342021,
+      "fetchedAt": 1795286415757,
       "repository": {
         "id": "R_kgDONCEh7g",
         "name": "merxio",
@@ -11478,7 +11482,7 @@
       }
     },
     "R_kgDOHMHOEg": {
-      "fetchedAt": 1795203342021,
+      "fetchedAt": 1795286415757,
       "repository": {
         "id": "R_kgDOHMHOEg",
         "name": "packing-app-arch-example",
@@ -11525,7 +11529,7 @@
       }
     },
     "R_kgDOM4eBoQ": {
-      "fetchedAt": 1795203342021,
+      "fetchedAt": 1795286415757,
       "repository": {
         "id": "R_kgDOM4eBoQ",
         "name": "pay-with-erc20",
@@ -11584,7 +11588,7 @@
       }
     },
     "R_kgDOIYO1NQ": {
-      "fetchedAt": 1795203342021,
+      "fetchedAt": 1795286415757,
       "repository": {
         "id": "R_kgDOIYO1NQ",
         "name": "podopieczni",
@@ -11643,7 +11647,7 @@
       }
     },
     "R_kgDOG66Syw": {
-      "fetchedAt": 1795203342021,
+      "fetchedAt": 1795286415757,
       "repository": {
         "id": "R_kgDOG66Syw",
         "name": "spotify-nextjs",
@@ -11696,7 +11700,7 @@
       }
     },
     "R_kgDORLIYjA": {
-      "fetchedAt": 1795203342021,
+      "fetchedAt": 1795286415757,
       "repository": {
         "id": "R_kgDORLIYjA",
         "name": "stats",
@@ -11712,8 +11716,8 @@
         "viewerPermission": "ADMIN",
         "createdAt": "2026-02-08T02:01:20Z",
         "updatedAt": "2026-11-11T19:13:59Z",
-        "pushedAt": "2026-11-19T19:55:54Z",
-        "defaultBranchOid": "4f43609686008efed8ced65617b21748f95da827",
+        "pushedAt": "2026-11-20T19:35:47Z",
+        "defaultBranchOid": "602f11b071ab00f32ffc435d9932aa90f639c020",
         "stars": 0,
         "forks": 0,
         "primaryLanguage": null,
@@ -11732,11 +11736,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1795203315481
+        "metadataFetchedAt": 1795286394441
       }
     },
     "R_kgDORLYhzg": {
-      "fetchedAt": 1795203342021,
+      "fetchedAt": 1795286415757,
       "repository": {
         "id": "R_kgDORLYhzg",
         "name": "stats-remotion",
@@ -11752,8 +11756,8 @@
         "viewerPermission": "ADMIN",
         "createdAt": "2026-02-08T12:41:04Z",
         "updatedAt": "2026-11-12T07:36:57Z",
-        "pushedAt": "2026-11-20T06:34:40Z",
-        "defaultBranchOid": "8c0e25536ab1c42589cda5c90790cabf3880cdb6",
+        "pushedAt": "2026-11-21T06:26:26Z",
+        "defaultBranchOid": "e55170a066384622b441c12b69bd76960d02487e",
         "stars": 0,
         "forks": 0,
         "primaryLanguage": "TypeScript",
@@ -11791,11 +11795,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1795203315481
+        "metadataFetchedAt": 1795286394441
       }
     },
     "R_kgDOM5m71Q": {
-      "fetchedAt": 1795203342021,
+      "fetchedAt": 1795286415757,
       "repository": {
         "id": "R_kgDOM5m71Q",
         "name": "swapdapp",
@@ -11850,11 +11854,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1795203315481
+        "metadataFetchedAt": 1795286394441
       }
     },
     "R_kgDOM_BwhA": {
-      "fetchedAt": 1795203342021,
+      "fetchedAt": 1795286415757,
       "repository": {
         "id": "R_kgDOM_BwhA",
         "name": "token-based-access",
@@ -11913,7 +11917,7 @@
       }
     },
     "R_kgDOJzK38g": {
-      "fetchedAt": 1795203342021,
+      "fetchedAt": 1795286415757,
       "repository": {
         "id": "R_kgDOJzK38g",
         "name": "twitopia",
@@ -11972,7 +11976,7 @@
       }
     },
     "R_kgDOJyNUfg": {
-      "fetchedAt": 1795203342021,
+      "fetchedAt": 1795286415757,
       "repository": {
         "id": "R_kgDOJyNUfg",
         "name": "upvibe",
@@ -12031,7 +12035,7 @@
       }
     },
     "R_kgDOM3Q5ag": {
-      "fetchedAt": 1795203342021,
+      "fetchedAt": 1795286415757,
       "repository": {
         "id": "R_kgDOM3Q5ag",
         "name": "web3authenticator",
@@ -12090,7 +12094,7 @@
       }
     },
     "R_kgDOGP6O5Q": {
-      "fetchedAt": 1795203342021,
+      "fetchedAt": 1795286415757,
       "repository": {
         "id": "R_kgDOGP6O5Q",
         "name": "core",
@@ -12150,11 +12154,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1795203314390
+        "metadataFetchedAt": 1795286393417
       }
     },
     "R_kgDOItNLCQ": {
-      "fetchedAt": 1795203342021,
+      "fetchedAt": 1795286415757,
       "repository": {
         "id": "R_kgDOItNLCQ",
         "name": "next-forge",
@@ -12169,11 +12173,11 @@
         "visibility": "PUBLIC",
         "viewerPermission": "READ",
         "createdAt": "2023-01-02T04:19:54Z",
-        "updatedAt": "2026-11-20T17:33:00Z",
+        "updatedAt": "2026-11-21T08:56:43Z",
         "pushedAt": "2026-05-28T14:33:12Z",
         "defaultBranchOid": "f189de79ceef7c1ef69f61f12e272f99b4cdb699",
         "stars": 7792,
-        "forks": 742,
+        "forks": 741,
         "primaryLanguage": "TypeScript",
         "topics": [
           "nextjs",
@@ -12243,7 +12247,7 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1795203315481
+        "metadataFetchedAt": 1795286394441
       }
     }
   },
@@ -12323,9 +12327,9 @@
     "R_kgDORLYhzg": {
       "additions": 24111,
       "deletions": 142,
-      "commits": 291,
-      "fetchedAt": 1795203345848,
-      "defaultBranchOid": "8c0e25536ab1c42589cda5c90790cabf3880cdb6",
+      "commits": 292,
+      "fetchedAt": 1795286417369,
+      "defaultBranchOid": "e55170a066384622b441c12b69bd76960d02487e",
       "status": "fresh"
     },
     "R_kgDONCEh7g": {
@@ -12337,11 +12341,11 @@
       "status": "fresh"
     },
     "R_kgDORLIYjA": {
-      "additions": 97495,
-      "deletions": 45369,
-      "commits": 246,
-      "fetchedAt": 1795203343675,
-      "defaultBranchOid": "4f43609686008efed8ced65617b21748f95da827",
+      "additions": 97756,
+      "deletions": 45564,
+      "commits": 247,
+      "fetchedAt": 1795286417439,
+      "defaultBranchOid": "602f11b071ab00f32ffc435d9932aa90f639c020",
       "status": "fresh"
     },
     "R_kgDOGP6O5Q": {
@@ -12883,10 +12887,15 @@
           "timestamp": "2026-11-18T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1795118147805,
-      "status": "cached"
+      "fetchedAt": 1795286415912,
+      "status": "fresh"
     },
     "R_kgDOHAOf3g": {
       "count": 1,
@@ -13366,14 +13375,24 @@
           "timestamp": "2026-11-18T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1795118147803,
-      "status": "cached"
+      "fetchedAt": 1795286415932,
+      "status": "fresh"
     },
     "R_kgDOIYO1NQ": {
-      "count": 0,
-      "uniques": 0,
+      "count": 1,
+      "uniques": 1,
       "days": [
         {
           "timestamp": "2026-08-16T00:00:00Z",
@@ -13854,9 +13873,14 @@
           "timestamp": "2026-11-19T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-20T00:00:00Z",
+          "count": 1,
+          "uniques": 1
         }
       ],
-      "fetchedAt": 1795203342332,
+      "fetchedAt": 1795286416010,
       "status": "fresh"
     },
     "R_kgDOJyNUfg": {
@@ -14342,9 +14366,14 @@
           "timestamp": "2026-11-19T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1795203342300,
+      "fetchedAt": 1795286416035,
       "status": "fresh"
     },
     "R_kgDOM_BwhA": {
@@ -14825,10 +14854,20 @@
           "timestamp": "2026-11-18T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1795118148222,
-      "status": "cached"
+      "fetchedAt": 1795286416147,
+      "status": "fresh"
     },
     "R_kgDOJzK38g": {
       "count": 0,
@@ -15313,9 +15352,14 @@
           "timestamp": "2026-11-19T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1795203342403,
+      "fetchedAt": 1795286416114,
       "status": "fresh"
     },
     "R_kgDOM4eBoQ": {
@@ -15801,9 +15845,14 @@
           "timestamp": "2026-11-19T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1795203342622,
+      "fetchedAt": 1795286416243,
       "status": "fresh"
     },
     "R_kgDOM3Q5ag": {
@@ -16309,10 +16358,15 @@
           "timestamp": "2026-11-18T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1795118148387,
-      "status": "cached"
+      "fetchedAt": 1795286416210,
+      "status": "fresh"
     },
     "R_kgDOM5m71Q": {
       "count": 0,
@@ -16797,9 +16851,14 @@
           "timestamp": "2026-11-19T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1795203342680,
+      "fetchedAt": 1795286416346,
       "status": "fresh"
     },
     "R_kgDONCEh7g": {
@@ -17280,10 +17339,20 @@
           "timestamp": "2026-11-18T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1795118148623,
-      "status": "cached"
+      "fetchedAt": 1795286416347,
+      "status": "fresh"
     },
     "R_kgDORLIYjA": {
       "count": 0,
@@ -17768,9 +17837,14 @@
           "timestamp": "2026-11-19T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1795203342793,
+      "fetchedAt": 1795286416504,
       "status": "fresh"
     },
     "R_kgDORLYhzg": {
@@ -18256,9 +18330,14 @@
           "timestamp": "2026-11-19T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1795203342830,
+      "fetchedAt": 1795286416446,
       "status": "fresh"
     },
     "R_kgDOG66Syw": {
@@ -18744,9 +18823,14 @@
           "timestamp": "2026-11-19T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1795203342936,
+      "fetchedAt": 1795286416564,
       "status": "fresh"
     }
   },
@@ -18872,19 +18956,19 @@
       "contributors:R_kgDORLYhzg:29adddb17badeb8200cdf766d26c34b58cb3397a": 1784555983150,
       "contributors:R_kgDORLIYjA:1c2b8b2a1516ed54d582e97f5919983db54af828": 1784641322697,
       "contributors:R_kgDORLYhzg:c460f66ca37ea2ef2244418104655147d8ce029c": 1784641324939,
-      "traffic:R_kgDOHMHOEg": 1795203342164,
-      "traffic:R_kgDOHAOf3g": 1795203342198,
-      "traffic:R_kgDOIYO1NQ": 1795203342332,
-      "traffic:R_kgDOJyNUfg": 1795203342300,
-      "traffic:R_kgDOM_BwhA": 1795203342506,
-      "traffic:R_kgDOJzK38g": 1795203342403,
-      "traffic:R_kgDOM4eBoQ": 1795203342622,
-      "traffic:R_kgDOM3Q5ag": 1795203342537,
-      "traffic:R_kgDOM5m71Q": 1795203342680,
-      "traffic:R_kgDONCEh7g": 1795203342721,
-      "traffic:R_kgDORLIYjA": 1795203342793,
-      "traffic:R_kgDORLYhzg": 1795203342830,
-      "traffic:R_kgDOG66Syw": 1795203342936,
+      "traffic:R_kgDOHMHOEg": 1795286415912,
+      "traffic:R_kgDOHAOf3g": 1795286415932,
+      "traffic:R_kgDOIYO1NQ": 1795286416010,
+      "traffic:R_kgDOJyNUfg": 1795286416035,
+      "traffic:R_kgDOM_BwhA": 1795286416147,
+      "traffic:R_kgDOJzK38g": 1795286416114,
+      "traffic:R_kgDOM4eBoQ": 1795286416243,
+      "traffic:R_kgDOM3Q5ag": 1795286416210,
+      "traffic:R_kgDOM5m71Q": 1795286416346,
+      "traffic:R_kgDONCEh7g": 1795286416347,
+      "traffic:R_kgDORLIYjA": 1795286416504,
+      "traffic:R_kgDORLYhzg": 1795286416446,
+      "traffic:R_kgDOG66Syw": 1795286416564,
       "contributors:R_kgDORLIYjA:eb0a17ef2dd5ba43be7e9f0466c3c3e1e0fa4c22": 1788131278783,
       "contributors:R_kgDORLYhzg:57090eda4eb76bfef66f5632957d0e70d08840a6": 1788131293230,
       "contributors:R_kgDORLIYjA:a856c728e0233d579456d6641f6909cfcc3f6be3": 1788201840630,
@@ -19050,7 +19134,9 @@
       "contributors:R_kgDORLIYjA:5fce37384d5316a155b1d28460371c4b1b21c933": 1795118149111,
       "contributors:R_kgDORLYhzg:14467b8449391d564cbabbd6bce53f161f85fec4": 1795118151443,
       "contributors:R_kgDORLIYjA:4f43609686008efed8ced65617b21748f95da827": 1795203343675,
-      "contributors:R_kgDORLYhzg:8c0e25536ab1c42589cda5c90790cabf3880cdb6": 1795203345848
+      "contributors:R_kgDORLYhzg:8c0e25536ab1c42589cda5c90790cabf3880cdb6": 1795203345848,
+      "contributors:R_kgDORLYhzg:e55170a066384622b441c12b69bd76960d02487e": 1795286417370,
+      "contributors:R_kgDORLIYjA:602f11b071ab00f32ffc435d9932aa90f639c020": 1795286417439
     },
     "failures": {}
   }
